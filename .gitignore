@@ -84,6 +84,7 @@ results_antbau/
 results_thesis/
 results_update/
 results_vFinal/
+results_marvel/
 slurm*/
 .snakemake/
 logs/
