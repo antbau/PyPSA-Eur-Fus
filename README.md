@@ -1,0 +1,1 @@
+This repository was used for the simulation of fusion energy in the European energy system and is based on the open-source model PyPSA-Eur.
