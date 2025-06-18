@@ -10,7 +10,6 @@ gurobi.log
 /bak
 /resources
 /resources*
-/results
 /networks
 /benchmarks
 /logs
@@ -71,7 +70,10 @@ merger-todos.md
 
 *.html
 
-config/
+pypsa-eur-fus/results
+pypsa-eur-fus/config
+
+config_archive/
 config_thesis/
 config_update/
 cost_files/
@@ -79,7 +81,7 @@ cost_files_thesis/
 cost_files_update/
 gurobi_licenses/
 resources/
-results/
+results_archive/
 results_antbau/
 results_thesis/
 results_update/

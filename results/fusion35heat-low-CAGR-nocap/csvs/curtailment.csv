@@ -1,0 +1,20 @@
+cluster,39,39,39,39,39,39,39,39
+ll,vopt,vopt,vopt,vopt,vopt,vopt,vopt,vopt
+opt,,,,,,,,
+planning_horizon,2030,2040,2050,2060,2070,2080,2090,2100
+carrier,,,,,,,,
+coal,-inf,-inf,-inf,-inf,-inf,-inf,-inf,-inf
+gas,-inf,-inf,-inf,-inf,-inf,-inf,-inf,-inf
+lignite,-inf,-inf,-inf,-inf,-inf,-inf,-inf,-inf
+offwind-ac,5.278,1.464,0.507,0.003,0.0,0.0,19.29,21.491
+offwind-dc,0.936,0.001,0.017,0.001,0.003,2.284,19.653,22.013
+offwind-float,0.37,0.0,0.0,21.142,23.765,25.497,26.532,27.701
+oil primary,-inf,-inf,-inf,-inf,-inf,-inf,-inf,-inf
+onwind,4.414,0.755,0.841,0.392,0.278,0.11,0.002,0.0
+ror,0.028,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+rural solar thermal,37.494,37.971,32.416,39.55,34.688,33.764,43.847,38.434
+solar,1.789,0.017,0.064,0.042,0.113,0.095,0.094,0.127
+solar rooftop,0.185,0.009,0.016,0.016,0.015,0.015,0.015,0.015
+solar-hsat,2.274,0.004,0.114,0.097,25.647,27.9,29.002,30.98
+urban central solar thermal,24.473,43.357,37.817,40.123,35.857,33.281,38.059,36.774
+urban decentral solar thermal,36.267,37.972,34.306,39.065,35.288,34.101,44.224,37.778

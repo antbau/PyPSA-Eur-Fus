@@ -1,0 +1,4038 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="856.8pt" height="568.8pt" viewBox="0 0 856.8 568.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-03-13T03:10:31.113348</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 568.8 
+L 856.8 568.8 
+L 856.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 58.01875 382.548437 
+L 677.542187 382.548437 
+L 677.542187 7.2 
+L 58.01875 7.2 
+z
+" style="fill: #e5e5e5"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m542532cfb5" d="M 0 0 
+L 0 3.5 
+" style="stroke: #555555; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m542532cfb5" x="96.738965" y="382.548437" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- (39, vopt, Unnamed: 10_level_2, 2100) -->
+      <g style="fill: #555555" transform="translate(99.728809 561.6) rotate(-90) scale(0.1 -0.1)">
+       <defs>
+        <path id="Ubuntu-28" d="M 1094 1914 
+Q 1094 1094 1331 396 
+Q 1568 -301 2029 -896 
+L 1606 -1184 
+Q 1107 -576 803 214 
+Q 499 1005 499 1914 
+Q 499 2822 803 3612 
+Q 1107 4403 1606 5011 
+L 2029 4723 
+Q 1568 4128 1331 3430 
+Q 1094 2733 1094 1914 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-33" d="M 1446 435 
+Q 2016 435 2262 659 
+Q 2509 883 2509 1261 
+Q 2509 1504 2406 1670 
+Q 2304 1837 2137 1936 
+Q 1971 2035 1750 2076 
+Q 1530 2118 1299 2118 
+L 1146 2118 
+L 1146 2605 
+L 1357 2605 
+Q 1517 2605 1686 2637 
+Q 1856 2669 1997 2752 
+Q 2138 2835 2227 2979 
+Q 2317 3123 2317 3341 
+Q 2317 3520 2253 3648 
+Q 2189 3776 2083 3859 
+Q 1978 3942 1840 3977 
+Q 1702 4013 1549 4013 
+Q 1242 4013 1027 3923 
+Q 813 3834 666 3738 
+L 435 4192 
+Q 512 4243 630 4304 
+Q 749 4365 896 4416 
+Q 1043 4467 1212 4502 
+Q 1382 4538 1568 4538 
+Q 1920 4538 2176 4451 
+Q 2432 4365 2598 4208 
+Q 2765 4051 2848 3836 
+Q 2931 3622 2931 3373 
+Q 2931 3027 2732 2780 
+Q 2534 2534 2253 2406 
+Q 2426 2355 2586 2259 
+Q 2746 2163 2864 2016 
+Q 2982 1869 3056 1677 
+Q 3130 1485 3130 1248 
+Q 3130 960 3030 713 
+Q 2931 467 2723 288 
+Q 2515 109 2201 6 
+Q 1888 -96 1459 -96 
+Q 1293 -96 1117 -70 
+Q 941 -45 787 -6 
+Q 634 32 518 70 
+Q 403 109 352 134 
+L 467 653 
+Q 576 602 829 518 
+Q 1082 435 1446 435 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-39" d="M 3206 2662 
+Q 3206 1344 2550 669 
+Q 1894 -6 602 -13 
+L 582 486 
+Q 986 486 1309 563 
+Q 1632 640 1875 809 
+Q 2118 979 2281 1248 
+Q 2445 1517 2522 1907 
+Q 2355 1830 2144 1782 
+Q 1933 1734 1709 1734 
+Q 1331 1734 1068 1846 
+Q 806 1958 640 2147 
+Q 474 2336 400 2582 
+Q 326 2829 326 3098 
+Q 326 3334 409 3590 
+Q 493 3846 662 4057 
+Q 832 4269 1094 4403 
+Q 1357 4538 1715 4538 
+Q 2080 4538 2358 4410 
+Q 2637 4282 2825 4038 
+Q 3014 3795 3110 3446 
+Q 3206 3098 3206 2662 
+z
+M 1773 2221 
+Q 1997 2221 2195 2262 
+Q 2394 2304 2579 2387 
+Q 2586 2458 2586 2525 
+Q 2586 2592 2586 2662 
+Q 2586 2938 2547 3190 
+Q 2509 3443 2409 3632 
+Q 2310 3821 2144 3933 
+Q 1978 4045 1722 4045 
+Q 1510 4045 1363 3955 
+Q 1216 3866 1120 3728 
+Q 1024 3590 982 3427 
+Q 941 3264 941 3110 
+Q 941 2675 1149 2448 
+Q 1357 2221 1773 2221 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-2c" d="M 1139 730 
+Q 1146 678 1146 630 
+Q 1146 582 1146 531 
+Q 1146 128 1027 -265 
+Q 909 -659 704 -1018 
+L 243 -870 
+Q 403 -544 454 -208 
+Q 506 128 506 422 
+Q 506 506 502 582 
+Q 499 659 493 730 
+L 1139 730 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-20" transform="scale(0.015625)"/>
+        <path id="Ubuntu-76" d="M 3110 3328 
+Q 2861 2394 2525 1536 
+Q 2189 678 1875 0 
+L 1338 0 
+Q 1024 678 688 1536 
+Q 352 2394 102 3328 
+L 742 3328 
+Q 819 3014 924 2659 
+Q 1030 2304 1148 1955 
+Q 1267 1606 1388 1280 
+Q 1510 954 1619 698 
+Q 1728 954 1849 1280 
+Q 1971 1606 2089 1955 
+Q 2208 2304 2313 2659 
+Q 2419 3014 2496 3328 
+L 3110 3328 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-6f" d="M 3450 1664 
+Q 3450 1267 3334 947 
+Q 3219 627 3011 396 
+Q 2803 166 2515 41 
+Q 2227 -83 1888 -83 
+Q 1549 -83 1261 41 
+Q 973 166 765 396 
+Q 557 627 441 947 
+Q 326 1267 326 1664 
+Q 326 2054 441 2377 
+Q 557 2701 765 2931 
+Q 973 3162 1261 3286 
+Q 1549 3411 1888 3411 
+Q 2227 3411 2515 3286 
+Q 2803 3162 3011 2931 
+Q 3219 2701 3334 2377 
+Q 3450 2054 3450 1664 
+z
+M 2829 1664 
+Q 2829 2227 2576 2556 
+Q 2323 2886 1888 2886 
+Q 1453 2886 1200 2556 
+Q 947 2227 947 1664 
+Q 947 1101 1200 771 
+Q 1453 442 1888 442 
+Q 2323 442 2576 771 
+Q 2829 1101 2829 1664 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-70" d="M 2822 1658 
+Q 2822 2240 2534 2553 
+Q 2246 2867 1766 2867 
+Q 1498 2867 1347 2848 
+Q 1197 2829 1107 2803 
+L 1107 704 
+Q 1216 614 1421 531 
+Q 1626 448 1869 448 
+Q 2125 448 2307 541 
+Q 2490 634 2605 797 
+Q 2720 960 2771 1181 
+Q 2822 1402 2822 1658 
+z
+M 3443 1658 
+Q 3443 1280 3344 960 
+Q 3245 640 3053 409 
+Q 2861 179 2582 51 
+Q 2304 -77 1946 -77 
+Q 1658 -77 1437 0 
+Q 1216 77 1107 147 
+L 1107 -1184 
+L 512 -1184 
+L 512 3226 
+Q 723 3277 1040 3337 
+Q 1357 3398 1773 3398 
+Q 2157 3398 2464 3276 
+Q 2771 3155 2988 2931 
+Q 3206 2707 3324 2384 
+Q 3443 2061 3443 1658 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-74" d="M 1069 3328 
+L 2330 3328 
+L 2330 2829 
+L 1069 2829 
+L 1069 1293 
+Q 1069 1043 1107 880 
+Q 1146 717 1222 624 
+Q 1299 531 1414 492 
+Q 1530 454 1683 454 
+Q 1952 454 2115 515 
+Q 2278 576 2342 602 
+L 2458 109 
+Q 2368 64 2144 -3 
+Q 1920 -70 1632 -70 
+Q 1293 -70 1072 16 
+Q 851 102 716 275 
+Q 582 448 528 701 
+Q 474 954 474 1286 
+L 474 4256 
+L 1069 4358 
+L 1069 3328 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-55" d="M 2202 -96 
+Q 1766 -96 1446 38 
+Q 1126 173 921 406 
+Q 717 640 617 960 
+Q 518 1280 518 1651 
+L 518 4435 
+L 1139 4435 
+L 1139 1722 
+Q 1139 1056 1433 755 
+Q 1728 454 2202 454 
+Q 2438 454 2633 528 
+Q 2829 602 2969 755 
+Q 3110 909 3187 1149 
+Q 3264 1389 3264 1722 
+L 3264 4435 
+L 3885 4435 
+L 3885 1651 
+Q 3885 1280 3785 960 
+Q 3686 640 3478 406 
+Q 3270 173 2953 38 
+Q 2637 -96 2202 -96 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-6e" d="M 512 3232 
+Q 717 3283 1056 3340 
+Q 1395 3398 1837 3398 
+Q 2234 3398 2496 3286 
+Q 2758 3174 2915 2972 
+Q 3072 2771 3136 2489 
+Q 3200 2208 3200 1869 
+L 3200 0 
+L 2605 0 
+L 2605 1741 
+Q 2605 2048 2563 2265 
+Q 2522 2483 2426 2617 
+Q 2330 2752 2170 2813 
+Q 2010 2874 1773 2874 
+Q 1677 2874 1574 2867 
+Q 1472 2861 1379 2851 
+Q 1286 2842 1212 2829 
+Q 1139 2816 1107 2810 
+L 1107 0 
+L 512 0 
+L 512 3232 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-61" d="M 1638 429 
+Q 1850 429 2013 438 
+Q 2176 448 2285 474 
+L 2285 1466 
+Q 2221 1498 2077 1520 
+Q 1933 1542 1728 1542 
+Q 1594 1542 1443 1523 
+Q 1293 1504 1168 1443 
+Q 1043 1382 960 1276 
+Q 877 1171 877 998 
+Q 877 678 1081 553 
+Q 1286 429 1638 429 
+z
+M 1587 3411 
+Q 1946 3411 2192 3318 
+Q 2438 3226 2588 3056 
+Q 2739 2886 2803 2652 
+Q 2867 2419 2867 2138 
+L 2867 58 
+Q 2790 45 2652 22 
+Q 2515 0 2342 -19 
+Q 2170 -38 1968 -54 
+Q 1766 -70 1568 -70 
+Q 1286 -70 1049 -12 
+Q 813 45 640 169 
+Q 467 294 371 499 
+Q 275 704 275 992 
+Q 275 1267 387 1465 
+Q 499 1664 691 1785 
+Q 883 1907 1139 1964 
+Q 1395 2022 1677 2022 
+Q 1766 2022 1862 2012 
+Q 1958 2003 2044 1987 
+Q 2131 1971 2195 1958 
+Q 2259 1946 2285 1939 
+L 2285 2106 
+Q 2285 2253 2253 2397 
+Q 2221 2541 2137 2653 
+Q 2054 2765 1910 2832 
+Q 1766 2899 1536 2899 
+Q 1242 2899 1021 2857 
+Q 800 2816 691 2771 
+L 621 3264 
+Q 736 3315 1005 3363 
+Q 1274 3411 1587 3411 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-6d" d="M 512 3232 
+Q 717 3283 1053 3340 
+Q 1389 3398 1830 3398 
+Q 2150 3398 2368 3312 
+Q 2586 3226 2733 3059 
+Q 2778 3091 2874 3148 
+Q 2970 3206 3110 3260 
+Q 3251 3315 3424 3356 
+Q 3597 3398 3795 3398 
+Q 4179 3398 4422 3286 
+Q 4666 3174 4803 2969 
+Q 4941 2765 4989 2483 
+Q 5037 2202 5037 1869 
+L 5037 0 
+L 4442 0 
+L 4442 1741 
+Q 4442 2035 4413 2246 
+Q 4384 2458 4304 2598 
+Q 4224 2739 4086 2806 
+Q 3949 2874 3731 2874 
+Q 3430 2874 3235 2794 
+Q 3040 2714 2970 2650 
+Q 3021 2483 3046 2284 
+Q 3072 2086 3072 1869 
+L 3072 0 
+L 2477 0 
+L 2477 1741 
+Q 2477 2035 2445 2246 
+Q 2413 2458 2333 2598 
+Q 2253 2739 2115 2806 
+Q 1978 2874 1766 2874 
+Q 1677 2874 1574 2867 
+Q 1472 2861 1379 2851 
+Q 1286 2842 1209 2829 
+Q 1133 2816 1107 2810 
+L 1107 0 
+L 512 0 
+L 512 3232 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-65" d="M 326 1658 
+Q 326 2099 454 2428 
+Q 582 2758 793 2976 
+Q 1005 3194 1280 3302 
+Q 1555 3411 1843 3411 
+Q 2515 3411 2873 2992 
+Q 3232 2573 3232 1715 
+Q 3232 1677 3232 1616 
+Q 3232 1555 3226 1504 
+L 947 1504 
+Q 986 986 1248 717 
+Q 1510 448 2067 448 
+Q 2381 448 2595 502 
+Q 2810 557 2918 608 
+L 3002 109 
+Q 2893 51 2621 -13 
+Q 2349 -77 2003 -77 
+Q 1568 -77 1251 54 
+Q 934 186 729 416 
+Q 525 646 425 963 
+Q 326 1280 326 1658 
+z
+M 2611 1984 
+Q 2618 2387 2410 2646 
+Q 2202 2906 1837 2906 
+Q 1632 2906 1475 2826 
+Q 1318 2746 1209 2618 
+Q 1101 2490 1040 2323 
+Q 979 2157 960 1984 
+L 2611 1984 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-64" d="M 2662 2624 
+Q 2554 2714 2349 2797 
+Q 2144 2880 1901 2880 
+Q 1645 2880 1462 2787 
+Q 1280 2694 1165 2531 
+Q 1050 2368 998 2144 
+Q 947 1920 947 1664 
+Q 947 1082 1235 765 
+Q 1523 448 2003 448 
+Q 2246 448 2409 470 
+Q 2573 493 2662 518 
+L 2662 2624 
+z
+M 2662 4864 
+L 3258 4966 
+L 3258 96 
+Q 3053 38 2733 -19 
+Q 2413 -77 1997 -77 
+Q 1613 -77 1305 44 
+Q 998 166 780 390 
+Q 563 614 444 937 
+Q 326 1261 326 1664 
+Q 326 2048 425 2368 
+Q 525 2688 717 2918 
+Q 909 3149 1187 3277 
+Q 1466 3405 1824 3405 
+Q 2112 3405 2333 3328 
+Q 2554 3251 2662 3181 
+L 2662 4864 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-3a" d="M 1216 346 
+Q 1216 173 1101 45 
+Q 986 -83 787 -83 
+Q 589 -83 473 45 
+Q 358 173 358 346 
+Q 358 518 473 646 
+Q 589 774 787 774 
+Q 986 774 1101 646 
+Q 1216 518 1216 346 
+z
+M 1216 2900 
+Q 1216 2727 1101 2599 
+Q 986 2471 787 2471 
+Q 589 2471 473 2599 
+Q 358 2727 358 2900 
+Q 358 3072 473 3200 
+Q 589 3328 787 3328 
+Q 986 3328 1101 3200 
+Q 1216 3072 1216 2900 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-31" d="M 595 3520 
+Q 960 3661 1305 3881 
+Q 1651 4102 1939 4435 
+L 2362 4435 
+L 2362 0 
+L 1766 0 
+L 1766 3610 
+Q 1690 3539 1578 3462 
+Q 1466 3386 1334 3315 
+Q 1203 3245 1059 3181 
+Q 915 3117 781 3072 
+L 595 3520 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-30" d="M 320 2221 
+Q 320 3334 713 3936 
+Q 1107 4538 1805 4538 
+Q 2502 4538 2896 3936 
+Q 3290 3334 3290 2221 
+Q 3290 1107 2896 505 
+Q 2502 -96 1805 -96 
+Q 1107 -96 713 505 
+Q 320 1107 320 2221 
+z
+M 2662 2221 
+Q 2662 2586 2620 2912 
+Q 2579 3238 2480 3481 
+Q 2381 3725 2214 3869 
+Q 2048 4013 1805 4013 
+Q 1562 4013 1395 3869 
+Q 1229 3725 1129 3481 
+Q 1030 3238 988 2912 
+Q 947 2586 947 2221 
+Q 947 1856 988 1529 
+Q 1030 1203 1129 960 
+Q 1229 717 1395 573 
+Q 1562 429 1805 429 
+Q 2048 429 2214 573 
+Q 2381 717 2480 960 
+Q 2579 1203 2620 1529 
+Q 2662 1856 2662 2221 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-5f" d="M -26 -678 
+L 3174 -678 
+L 3174 -1184 
+L -26 -1184 
+L -26 -678 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-6c" d="M 1510 -64 
+Q 960 -51 729 173 
+Q 499 397 499 870 
+L 499 4864 
+L 1094 4966 
+L 1094 966 
+Q 1094 819 1120 723 
+Q 1146 627 1203 569 
+Q 1261 512 1357 483 
+Q 1453 454 1594 435 
+L 1510 -64 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-32" d="M 2989 3302 
+Q 2989 3072 2896 2857 
+Q 2803 2643 2649 2435 
+Q 2496 2227 2304 2025 
+Q 2112 1824 1920 1632 
+Q 1811 1523 1667 1376 
+Q 1523 1229 1395 1069 
+Q 1267 909 1180 761 
+Q 1094 614 1094 506 
+L 3136 506 
+L 3136 0 
+L 448 0 
+Q 442 38 442 76 
+Q 442 115 442 147 
+Q 442 448 541 707 
+Q 640 966 800 1196 
+Q 960 1427 1158 1632 
+Q 1357 1837 1549 2029 
+Q 1709 2182 1853 2332 
+Q 1997 2483 2109 2633 
+Q 2221 2784 2288 2944 
+Q 2355 3104 2355 3283 
+Q 2355 3475 2294 3609 
+Q 2234 3744 2131 3833 
+Q 2029 3923 1891 3964 
+Q 1754 4006 1600 4006 
+Q 1414 4006 1260 3955 
+Q 1107 3904 985 3837 
+Q 864 3770 781 3696 
+Q 698 3622 653 3584 
+L 358 4006 
+Q 416 4070 531 4163 
+Q 646 4256 806 4339 
+Q 966 4422 1164 4480 
+Q 1363 4538 1594 4538 
+Q 2291 4538 2640 4214 
+Q 2989 3891 2989 3302 
+z
+" transform="scale(0.015625)"/>
+        <path id="Ubuntu-29" d="M 979 1914 
+Q 979 2733 742 3430 
+Q 506 4128 45 4723 
+L 467 5011 
+Q 966 4403 1270 3612 
+Q 1574 2822 1574 1914 
+Q 1574 1005 1270 214 
+Q 966 -576 467 -1184 
+L 45 -896 
+Q 506 -301 742 396 
+Q 979 1094 979 1914 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Ubuntu-28"/>
+       <use xlink:href="#Ubuntu-33" x="32.399994"/>
+       <use xlink:href="#Ubuntu-39" x="88.799988"/>
+       <use xlink:href="#Ubuntu-2c" x="145.199982"/>
+       <use xlink:href="#Ubuntu-20" x="169.799973"/>
+       <use xlink:href="#Ubuntu-76" x="192.899963"/>
+       <use xlink:href="#Ubuntu-6f" x="241.72496"/>
+       <use xlink:href="#Ubuntu-70" x="300.724945"/>
+       <use xlink:href="#Ubuntu-74" x="359.624939"/>
+       <use xlink:href="#Ubuntu-2c" x="399.824936"/>
+       <use xlink:href="#Ubuntu-20" x="424.424927"/>
+       <use xlink:href="#Ubuntu-55" x="447.524918"/>
+       <use xlink:href="#Ubuntu-6e" x="516.324905"/>
+       <use xlink:href="#Ubuntu-6e" x="573.724899"/>
+       <use xlink:href="#Ubuntu-61" x="631.124893"/>
+       <use xlink:href="#Ubuntu-6d" x="683.32489"/>
+       <use xlink:href="#Ubuntu-65" x="769.424881"/>
+       <use xlink:href="#Ubuntu-64" x="825.324875"/>
+       <use xlink:href="#Ubuntu-3a" x="884.224869"/>
+       <use xlink:href="#Ubuntu-20" x="908.82486"/>
+       <use xlink:href="#Ubuntu-31" x="931.92485"/>
+       <use xlink:href="#Ubuntu-30" x="988.324844"/>
+       <use xlink:href="#Ubuntu-5f" x="1044.724838"/>
+       <use xlink:href="#Ubuntu-6c" x="1093.924835"/>
+       <use xlink:href="#Ubuntu-65" x="1121.224823"/>
+       <use xlink:href="#Ubuntu-76" x="1177.124817"/>
+       <use xlink:href="#Ubuntu-65" x="1225.949814"/>
+       <use xlink:href="#Ubuntu-6c" x="1281.849808"/>
+       <use xlink:href="#Ubuntu-5f" x="1309.149796"/>
+       <use xlink:href="#Ubuntu-32" x="1358.349792"/>
+       <use xlink:href="#Ubuntu-2c" x="1414.749786"/>
+       <use xlink:href="#Ubuntu-20" x="1439.349777"/>
+       <use xlink:href="#Ubuntu-32" x="1462.449768"/>
+       <use xlink:href="#Ubuntu-31" x="1518.849762"/>
+       <use xlink:href="#Ubuntu-30" x="1575.249756"/>
+       <use xlink:href="#Ubuntu-30" x="1631.64975"/>
+       <use xlink:href="#Ubuntu-29" x="1688.049744"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m542532cfb5" x="174.179395" y="382.548437" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- (39, vopt, Unnamed: 3_level_2, 2030) -->
+      <g style="fill: #555555" transform="translate(177.169238 555.959375) rotate(-90) scale(0.1 -0.1)">
+       <use xlink:href="#Ubuntu-28"/>
+       <use xlink:href="#Ubuntu-33" x="32.399994"/>
+       <use xlink:href="#Ubuntu-39" x="88.799988"/>
+       <use xlink:href="#Ubuntu-2c" x="145.199982"/>
+       <use xlink:href="#Ubuntu-20" x="169.799973"/>
+       <use xlink:href="#Ubuntu-76" x="192.899963"/>
+       <use xlink:href="#Ubuntu-6f" x="241.72496"/>
+       <use xlink:href="#Ubuntu-70" x="300.724945"/>
+       <use xlink:href="#Ubuntu-74" x="359.624939"/>
+       <use xlink:href="#Ubuntu-2c" x="399.824936"/>
+       <use xlink:href="#Ubuntu-20" x="424.424927"/>
+       <use xlink:href="#Ubuntu-55" x="447.524918"/>
+       <use xlink:href="#Ubuntu-6e" x="516.324905"/>
+       <use xlink:href="#Ubuntu-6e" x="573.724899"/>
+       <use xlink:href="#Ubuntu-61" x="631.124893"/>
+       <use xlink:href="#Ubuntu-6d" x="683.32489"/>
+       <use xlink:href="#Ubuntu-65" x="769.424881"/>
+       <use xlink:href="#Ubuntu-64" x="825.324875"/>
+       <use xlink:href="#Ubuntu-3a" x="884.224869"/>
+       <use xlink:href="#Ubuntu-20" x="908.82486"/>
+       <use xlink:href="#Ubuntu-33" x="931.92485"/>
+       <use xlink:href="#Ubuntu-5f" x="988.324844"/>
+       <use xlink:href="#Ubuntu-6c" x="1037.524841"/>
+       <use xlink:href="#Ubuntu-65" x="1064.824829"/>
+       <use xlink:href="#Ubuntu-76" x="1120.724823"/>
+       <use xlink:href="#Ubuntu-65" x="1169.54982"/>
+       <use xlink:href="#Ubuntu-6c" x="1225.449814"/>
+       <use xlink:href="#Ubuntu-5f" x="1252.749802"/>
+       <use xlink:href="#Ubuntu-32" x="1301.949799"/>
+       <use xlink:href="#Ubuntu-2c" x="1358.349792"/>
+       <use xlink:href="#Ubuntu-20" x="1382.949783"/>
+       <use xlink:href="#Ubuntu-32" x="1406.049774"/>
+       <use xlink:href="#Ubuntu-30" x="1462.449768"/>
+       <use xlink:href="#Ubuntu-33" x="1518.849762"/>
+       <use xlink:href="#Ubuntu-30" x="1575.249756"/>
+       <use xlink:href="#Ubuntu-29" x="1631.64975"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m542532cfb5" x="251.619824" y="382.548437" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- (39, vopt, Unnamed: 4_level_2, 2040) -->
+      <g style="fill: #555555" transform="translate(254.609668 555.959375) rotate(-90) scale(0.1 -0.1)">
+       <defs>
+        <path id="Ubuntu-34" d="M 256 1536 
+Q 378 1818 589 2192 
+Q 800 2566 1065 2963 
+Q 1331 3360 1635 3744 
+Q 1939 4128 2246 4435 
+L 2816 4435 
+L 2816 1619 
+L 3341 1619 
+L 3341 1133 
+L 2816 1133 
+L 2816 0 
+L 2240 0 
+L 2240 1133 
+L 256 1133 
+L 256 1536 
+z
+M 2240 3731 
+Q 2048 3526 1853 3273 
+Q 1658 3021 1472 2745 
+Q 1286 2470 1123 2182 
+Q 960 1894 832 1619 
+L 2240 1619 
+L 2240 3731 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Ubuntu-28"/>
+       <use xlink:href="#Ubuntu-33" x="32.399994"/>
+       <use xlink:href="#Ubuntu-39" x="88.799988"/>
+       <use xlink:href="#Ubuntu-2c" x="145.199982"/>
+       <use xlink:href="#Ubuntu-20" x="169.799973"/>
+       <use xlink:href="#Ubuntu-76" x="192.899963"/>
+       <use xlink:href="#Ubuntu-6f" x="241.72496"/>
+       <use xlink:href="#Ubuntu-70" x="300.724945"/>
+       <use xlink:href="#Ubuntu-74" x="359.624939"/>
+       <use xlink:href="#Ubuntu-2c" x="399.824936"/>
+       <use xlink:href="#Ubuntu-20" x="424.424927"/>
+       <use xlink:href="#Ubuntu-55" x="447.524918"/>
+       <use xlink:href="#Ubuntu-6e" x="516.324905"/>
+       <use xlink:href="#Ubuntu-6e" x="573.724899"/>
+       <use xlink:href="#Ubuntu-61" x="631.124893"/>
+       <use xlink:href="#Ubuntu-6d" x="683.32489"/>
+       <use xlink:href="#Ubuntu-65" x="769.424881"/>
+       <use xlink:href="#Ubuntu-64" x="825.324875"/>
+       <use xlink:href="#Ubuntu-3a" x="884.224869"/>
+       <use xlink:href="#Ubuntu-20" x="908.82486"/>
+       <use xlink:href="#Ubuntu-34" x="931.92485"/>
+       <use xlink:href="#Ubuntu-5f" x="988.324844"/>
+       <use xlink:href="#Ubuntu-6c" x="1037.524841"/>
+       <use xlink:href="#Ubuntu-65" x="1064.824829"/>
+       <use xlink:href="#Ubuntu-76" x="1120.724823"/>
+       <use xlink:href="#Ubuntu-65" x="1169.54982"/>
+       <use xlink:href="#Ubuntu-6c" x="1225.449814"/>
+       <use xlink:href="#Ubuntu-5f" x="1252.749802"/>
+       <use xlink:href="#Ubuntu-32" x="1301.949799"/>
+       <use xlink:href="#Ubuntu-2c" x="1358.349792"/>
+       <use xlink:href="#Ubuntu-20" x="1382.949783"/>
+       <use xlink:href="#Ubuntu-32" x="1406.049774"/>
+       <use xlink:href="#Ubuntu-30" x="1462.449768"/>
+       <use xlink:href="#Ubuntu-34" x="1518.849762"/>
+       <use xlink:href="#Ubuntu-30" x="1575.249756"/>
+       <use xlink:href="#Ubuntu-29" x="1631.64975"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m542532cfb5" x="329.060254" y="382.548437" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- (39, vopt, Unnamed: 5_level_2, 2050) -->
+      <g style="fill: #555555" transform="translate(332.050098 555.959375) rotate(-90) scale(0.1 -0.1)">
+       <defs>
+        <path id="Ubuntu-35" d="M 1274 2726 
+Q 2240 2688 2691 2304 
+Q 3142 1920 3142 1261 
+Q 3142 966 3043 716 
+Q 2944 467 2742 288 
+Q 2541 109 2233 6 
+Q 1926 -96 1504 -96 
+Q 1338 -96 1165 -70 
+Q 992 -45 845 -6 
+Q 698 32 582 70 
+Q 467 109 416 134 
+L 531 653 
+Q 640 602 886 518 
+Q 1133 435 1491 435 
+Q 1779 435 1974 499 
+Q 2170 563 2291 672 
+Q 2413 781 2467 925 
+Q 2522 1069 2522 1229 
+Q 2522 1472 2438 1661 
+Q 2355 1850 2144 1978 
+Q 1933 2106 1581 2173 
+Q 1229 2240 691 2240 
+Q 730 2554 752 2829 
+Q 774 3104 793 3366 
+Q 813 3629 825 3888 
+Q 838 4147 851 4435 
+L 2989 4435 
+L 2989 3930 
+L 1370 3930 
+Q 1363 3834 1350 3670 
+Q 1338 3507 1325 3331 
+Q 1312 3155 1299 2988 
+Q 1286 2822 1274 2726 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Ubuntu-28"/>
+       <use xlink:href="#Ubuntu-33" x="32.399994"/>
+       <use xlink:href="#Ubuntu-39" x="88.799988"/>
+       <use xlink:href="#Ubuntu-2c" x="145.199982"/>
+       <use xlink:href="#Ubuntu-20" x="169.799973"/>
+       <use xlink:href="#Ubuntu-76" x="192.899963"/>
+       <use xlink:href="#Ubuntu-6f" x="241.72496"/>
+       <use xlink:href="#Ubuntu-70" x="300.724945"/>
+       <use xlink:href="#Ubuntu-74" x="359.624939"/>
+       <use xlink:href="#Ubuntu-2c" x="399.824936"/>
+       <use xlink:href="#Ubuntu-20" x="424.424927"/>
+       <use xlink:href="#Ubuntu-55" x="447.524918"/>
+       <use xlink:href="#Ubuntu-6e" x="516.324905"/>
+       <use xlink:href="#Ubuntu-6e" x="573.724899"/>
+       <use xlink:href="#Ubuntu-61" x="631.124893"/>
+       <use xlink:href="#Ubuntu-6d" x="683.32489"/>
+       <use xlink:href="#Ubuntu-65" x="769.424881"/>
+       <use xlink:href="#Ubuntu-64" x="825.324875"/>
+       <use xlink:href="#Ubuntu-3a" x="884.224869"/>
+       <use xlink:href="#Ubuntu-20" x="908.82486"/>
+       <use xlink:href="#Ubuntu-35" x="931.92485"/>
+       <use xlink:href="#Ubuntu-5f" x="988.324844"/>
+       <use xlink:href="#Ubuntu-6c" x="1037.524841"/>
+       <use xlink:href="#Ubuntu-65" x="1064.824829"/>
+       <use xlink:href="#Ubuntu-76" x="1120.724823"/>
+       <use xlink:href="#Ubuntu-65" x="1169.54982"/>
+       <use xlink:href="#Ubuntu-6c" x="1225.449814"/>
+       <use xlink:href="#Ubuntu-5f" x="1252.749802"/>
+       <use xlink:href="#Ubuntu-32" x="1301.949799"/>
+       <use xlink:href="#Ubuntu-2c" x="1358.349792"/>
+       <use xlink:href="#Ubuntu-20" x="1382.949783"/>
+       <use xlink:href="#Ubuntu-32" x="1406.049774"/>
+       <use xlink:href="#Ubuntu-30" x="1462.449768"/>
+       <use xlink:href="#Ubuntu-35" x="1518.849762"/>
+       <use xlink:href="#Ubuntu-30" x="1575.249756"/>
+       <use xlink:href="#Ubuntu-29" x="1631.64975"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m542532cfb5" x="406.500684" y="382.548437" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- (39, vopt, Unnamed: 6_level_2, 2060) -->
+      <g style="fill: #555555" transform="translate(409.490527 555.959375) rotate(-90) scale(0.1 -0.1)">
+       <defs>
+        <path id="Ubuntu-36" d="M 403 1779 
+Q 403 2426 582 2922 
+Q 762 3418 1091 3757 
+Q 1421 4096 1891 4272 
+Q 2362 4448 2950 4454 
+L 2995 3955 
+Q 2618 3949 2307 3872 
+Q 1997 3795 1753 3628 
+Q 1510 3462 1344 3196 
+Q 1178 2931 1094 2541 
+Q 1261 2618 1469 2669 
+Q 1677 2720 1901 2720 
+Q 2278 2720 2540 2605 
+Q 2803 2490 2969 2301 
+Q 3136 2112 3209 1865 
+Q 3283 1619 3283 1350 
+Q 3283 1107 3200 851 
+Q 3117 595 2947 384 
+Q 2778 173 2515 38 
+Q 2253 -96 1894 -96 
+Q 1165 -96 784 403 
+Q 403 902 403 1779 
+z
+M 1837 2234 
+Q 1613 2234 1421 2192 
+Q 1229 2150 1037 2067 
+Q 1030 1997 1027 1923 
+Q 1024 1850 1024 1779 
+Q 1024 1498 1062 1248 
+Q 1101 998 1200 809 
+Q 1299 621 1465 509 
+Q 1632 397 1888 397 
+Q 2099 397 2246 486 
+Q 2394 576 2490 717 
+Q 2586 858 2627 1021 
+Q 2669 1184 2669 1338 
+Q 2669 1773 2461 2003 
+Q 2253 2234 1837 2234 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Ubuntu-28"/>
+       <use xlink:href="#Ubuntu-33" x="32.399994"/>
+       <use xlink:href="#Ubuntu-39" x="88.799988"/>
+       <use xlink:href="#Ubuntu-2c" x="145.199982"/>
+       <use xlink:href="#Ubuntu-20" x="169.799973"/>
+       <use xlink:href="#Ubuntu-76" x="192.899963"/>
+       <use xlink:href="#Ubuntu-6f" x="241.72496"/>
+       <use xlink:href="#Ubuntu-70" x="300.724945"/>
+       <use xlink:href="#Ubuntu-74" x="359.624939"/>
+       <use xlink:href="#Ubuntu-2c" x="399.824936"/>
+       <use xlink:href="#Ubuntu-20" x="424.424927"/>
+       <use xlink:href="#Ubuntu-55" x="447.524918"/>
+       <use xlink:href="#Ubuntu-6e" x="516.324905"/>
+       <use xlink:href="#Ubuntu-6e" x="573.724899"/>
+       <use xlink:href="#Ubuntu-61" x="631.124893"/>
+       <use xlink:href="#Ubuntu-6d" x="683.32489"/>
+       <use xlink:href="#Ubuntu-65" x="769.424881"/>
+       <use xlink:href="#Ubuntu-64" x="825.324875"/>
+       <use xlink:href="#Ubuntu-3a" x="884.224869"/>
+       <use xlink:href="#Ubuntu-20" x="908.82486"/>
+       <use xlink:href="#Ubuntu-36" x="931.92485"/>
+       <use xlink:href="#Ubuntu-5f" x="988.324844"/>
+       <use xlink:href="#Ubuntu-6c" x="1037.524841"/>
+       <use xlink:href="#Ubuntu-65" x="1064.824829"/>
+       <use xlink:href="#Ubuntu-76" x="1120.724823"/>
+       <use xlink:href="#Ubuntu-65" x="1169.54982"/>
+       <use xlink:href="#Ubuntu-6c" x="1225.449814"/>
+       <use xlink:href="#Ubuntu-5f" x="1252.749802"/>
+       <use xlink:href="#Ubuntu-32" x="1301.949799"/>
+       <use xlink:href="#Ubuntu-2c" x="1358.349792"/>
+       <use xlink:href="#Ubuntu-20" x="1382.949783"/>
+       <use xlink:href="#Ubuntu-32" x="1406.049774"/>
+       <use xlink:href="#Ubuntu-30" x="1462.449768"/>
+       <use xlink:href="#Ubuntu-36" x="1518.849762"/>
+       <use xlink:href="#Ubuntu-30" x="1575.249756"/>
+       <use xlink:href="#Ubuntu-29" x="1631.64975"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m542532cfb5" x="483.941113" y="382.548437" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- (39, vopt, Unnamed: 7_level_2, 2070) -->
+      <g style="fill: #555555" transform="translate(486.930957 555.959375) rotate(-90) scale(0.1 -0.1)">
+       <defs>
+        <path id="Ubuntu-37" d="M 1043 0 
+Q 1082 512 1226 1078 
+Q 1370 1645 1581 2179 
+Q 1792 2714 2045 3171 
+Q 2298 3629 2541 3917 
+L 384 3917 
+L 384 4435 
+L 3206 4435 
+L 3206 3942 
+Q 2995 3699 2739 3273 
+Q 2483 2848 2256 2320 
+Q 2029 1792 1865 1193 
+Q 1702 595 1664 0 
+L 1043 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Ubuntu-28"/>
+       <use xlink:href="#Ubuntu-33" x="32.399994"/>
+       <use xlink:href="#Ubuntu-39" x="88.799988"/>
+       <use xlink:href="#Ubuntu-2c" x="145.199982"/>
+       <use xlink:href="#Ubuntu-20" x="169.799973"/>
+       <use xlink:href="#Ubuntu-76" x="192.899963"/>
+       <use xlink:href="#Ubuntu-6f" x="241.72496"/>
+       <use xlink:href="#Ubuntu-70" x="300.724945"/>
+       <use xlink:href="#Ubuntu-74" x="359.624939"/>
+       <use xlink:href="#Ubuntu-2c" x="399.824936"/>
+       <use xlink:href="#Ubuntu-20" x="424.424927"/>
+       <use xlink:href="#Ubuntu-55" x="447.524918"/>
+       <use xlink:href="#Ubuntu-6e" x="516.324905"/>
+       <use xlink:href="#Ubuntu-6e" x="573.724899"/>
+       <use xlink:href="#Ubuntu-61" x="631.124893"/>
+       <use xlink:href="#Ubuntu-6d" x="683.32489"/>
+       <use xlink:href="#Ubuntu-65" x="769.424881"/>
+       <use xlink:href="#Ubuntu-64" x="825.324875"/>
+       <use xlink:href="#Ubuntu-3a" x="884.224869"/>
+       <use xlink:href="#Ubuntu-20" x="908.82486"/>
+       <use xlink:href="#Ubuntu-37" x="931.92485"/>
+       <use xlink:href="#Ubuntu-5f" x="988.324844"/>
+       <use xlink:href="#Ubuntu-6c" x="1037.524841"/>
+       <use xlink:href="#Ubuntu-65" x="1064.824829"/>
+       <use xlink:href="#Ubuntu-76" x="1120.724823"/>
+       <use xlink:href="#Ubuntu-65" x="1169.54982"/>
+       <use xlink:href="#Ubuntu-6c" x="1225.449814"/>
+       <use xlink:href="#Ubuntu-5f" x="1252.749802"/>
+       <use xlink:href="#Ubuntu-32" x="1301.949799"/>
+       <use xlink:href="#Ubuntu-2c" x="1358.349792"/>
+       <use xlink:href="#Ubuntu-20" x="1382.949783"/>
+       <use xlink:href="#Ubuntu-32" x="1406.049774"/>
+       <use xlink:href="#Ubuntu-30" x="1462.449768"/>
+       <use xlink:href="#Ubuntu-37" x="1518.849762"/>
+       <use xlink:href="#Ubuntu-30" x="1575.249756"/>
+       <use xlink:href="#Ubuntu-29" x="1631.64975"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m542532cfb5" x="561.381543" y="382.548437" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- (39, vopt, Unnamed: 8_level_2, 2080) -->
+      <g style="fill: #555555" transform="translate(564.371387 555.959375) rotate(-90) scale(0.1 -0.1)">
+       <defs>
+        <path id="Ubuntu-38" d="M 3258 1152 
+Q 3258 883 3165 656 
+Q 3072 429 2889 259 
+Q 2707 90 2432 -3 
+Q 2157 -96 1798 -96 
+Q 1382 -96 1104 22 
+Q 826 141 659 320 
+Q 493 499 422 713 
+Q 352 928 352 1120 
+Q 352 1306 413 1475 
+Q 474 1645 573 1792 
+Q 672 1939 803 2057 
+Q 934 2176 1082 2266 
+Q 454 2624 454 3322 
+Q 454 3565 550 3785 
+Q 646 4006 822 4172 
+Q 998 4339 1248 4438 
+Q 1498 4538 1805 4538 
+Q 2163 4538 2419 4429 
+Q 2675 4320 2838 4150 
+Q 3002 3981 3075 3776 
+Q 3149 3571 3149 3379 
+Q 3149 3194 3094 3030 
+Q 3040 2867 2947 2726 
+Q 2854 2586 2736 2477 
+Q 2618 2368 2490 2285 
+Q 3245 1926 3258 1152 
+z
+M 954 1114 
+Q 954 998 995 873 
+Q 1037 749 1139 643 
+Q 1242 538 1402 467 
+Q 1562 397 1805 397 
+Q 2022 397 2185 461 
+Q 2349 525 2451 624 
+Q 2554 723 2605 851 
+Q 2656 979 2656 1114 
+Q 2656 1318 2579 1472 
+Q 2502 1626 2358 1741 
+Q 2214 1856 2012 1936 
+Q 1811 2016 1555 2074 
+Q 1267 1914 1110 1677 
+Q 954 1440 954 1114 
+z
+M 2554 3386 
+Q 2554 3482 2512 3597 
+Q 2470 3712 2380 3811 
+Q 2291 3910 2150 3977 
+Q 2010 4045 1805 4045 
+Q 1600 4045 1456 3981 
+Q 1312 3917 1222 3817 
+Q 1133 3718 1091 3600 
+Q 1050 3482 1050 3366 
+Q 1050 3226 1101 3085 
+Q 1152 2944 1261 2822 
+Q 1370 2701 1546 2605 
+Q 1722 2509 1965 2451 
+Q 2234 2611 2394 2825 
+Q 2554 3040 2554 3386 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Ubuntu-28"/>
+       <use xlink:href="#Ubuntu-33" x="32.399994"/>
+       <use xlink:href="#Ubuntu-39" x="88.799988"/>
+       <use xlink:href="#Ubuntu-2c" x="145.199982"/>
+       <use xlink:href="#Ubuntu-20" x="169.799973"/>
+       <use xlink:href="#Ubuntu-76" x="192.899963"/>
+       <use xlink:href="#Ubuntu-6f" x="241.72496"/>
+       <use xlink:href="#Ubuntu-70" x="300.724945"/>
+       <use xlink:href="#Ubuntu-74" x="359.624939"/>
+       <use xlink:href="#Ubuntu-2c" x="399.824936"/>
+       <use xlink:href="#Ubuntu-20" x="424.424927"/>
+       <use xlink:href="#Ubuntu-55" x="447.524918"/>
+       <use xlink:href="#Ubuntu-6e" x="516.324905"/>
+       <use xlink:href="#Ubuntu-6e" x="573.724899"/>
+       <use xlink:href="#Ubuntu-61" x="631.124893"/>
+       <use xlink:href="#Ubuntu-6d" x="683.32489"/>
+       <use xlink:href="#Ubuntu-65" x="769.424881"/>
+       <use xlink:href="#Ubuntu-64" x="825.324875"/>
+       <use xlink:href="#Ubuntu-3a" x="884.224869"/>
+       <use xlink:href="#Ubuntu-20" x="908.82486"/>
+       <use xlink:href="#Ubuntu-38" x="931.92485"/>
+       <use xlink:href="#Ubuntu-5f" x="988.324844"/>
+       <use xlink:href="#Ubuntu-6c" x="1037.524841"/>
+       <use xlink:href="#Ubuntu-65" x="1064.824829"/>
+       <use xlink:href="#Ubuntu-76" x="1120.724823"/>
+       <use xlink:href="#Ubuntu-65" x="1169.54982"/>
+       <use xlink:href="#Ubuntu-6c" x="1225.449814"/>
+       <use xlink:href="#Ubuntu-5f" x="1252.749802"/>
+       <use xlink:href="#Ubuntu-32" x="1301.949799"/>
+       <use xlink:href="#Ubuntu-2c" x="1358.349792"/>
+       <use xlink:href="#Ubuntu-20" x="1382.949783"/>
+       <use xlink:href="#Ubuntu-32" x="1406.049774"/>
+       <use xlink:href="#Ubuntu-30" x="1462.449768"/>
+       <use xlink:href="#Ubuntu-38" x="1518.849762"/>
+       <use xlink:href="#Ubuntu-30" x="1575.249756"/>
+       <use xlink:href="#Ubuntu-29" x="1631.64975"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m542532cfb5" x="638.821973" y="382.548437" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- (39, vopt, Unnamed: 9_level_2, 2090) -->
+      <g style="fill: #555555" transform="translate(641.811816 555.959375) rotate(-90) scale(0.1 -0.1)">
+       <use xlink:href="#Ubuntu-28"/>
+       <use xlink:href="#Ubuntu-33" x="32.399994"/>
+       <use xlink:href="#Ubuntu-39" x="88.799988"/>
+       <use xlink:href="#Ubuntu-2c" x="145.199982"/>
+       <use xlink:href="#Ubuntu-20" x="169.799973"/>
+       <use xlink:href="#Ubuntu-76" x="192.899963"/>
+       <use xlink:href="#Ubuntu-6f" x="241.72496"/>
+       <use xlink:href="#Ubuntu-70" x="300.724945"/>
+       <use xlink:href="#Ubuntu-74" x="359.624939"/>
+       <use xlink:href="#Ubuntu-2c" x="399.824936"/>
+       <use xlink:href="#Ubuntu-20" x="424.424927"/>
+       <use xlink:href="#Ubuntu-55" x="447.524918"/>
+       <use xlink:href="#Ubuntu-6e" x="516.324905"/>
+       <use xlink:href="#Ubuntu-6e" x="573.724899"/>
+       <use xlink:href="#Ubuntu-61" x="631.124893"/>
+       <use xlink:href="#Ubuntu-6d" x="683.32489"/>
+       <use xlink:href="#Ubuntu-65" x="769.424881"/>
+       <use xlink:href="#Ubuntu-64" x="825.324875"/>
+       <use xlink:href="#Ubuntu-3a" x="884.224869"/>
+       <use xlink:href="#Ubuntu-20" x="908.82486"/>
+       <use xlink:href="#Ubuntu-39" x="931.92485"/>
+       <use xlink:href="#Ubuntu-5f" x="988.324844"/>
+       <use xlink:href="#Ubuntu-6c" x="1037.524841"/>
+       <use xlink:href="#Ubuntu-65" x="1064.824829"/>
+       <use xlink:href="#Ubuntu-76" x="1120.724823"/>
+       <use xlink:href="#Ubuntu-65" x="1169.54982"/>
+       <use xlink:href="#Ubuntu-6c" x="1225.449814"/>
+       <use xlink:href="#Ubuntu-5f" x="1252.749802"/>
+       <use xlink:href="#Ubuntu-32" x="1301.949799"/>
+       <use xlink:href="#Ubuntu-2c" x="1358.349792"/>
+       <use xlink:href="#Ubuntu-20" x="1382.949783"/>
+       <use xlink:href="#Ubuntu-32" x="1406.049774"/>
+       <use xlink:href="#Ubuntu-30" x="1462.449768"/>
+       <use xlink:href="#Ubuntu-39" x="1518.849762"/>
+       <use xlink:href="#Ubuntu-30" x="1575.249756"/>
+       <use xlink:href="#Ubuntu-29" x="1631.64975"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_9">
+      <path d="M 58.01875 358.062758 
+L 677.542187 358.062758 
+" clip-path="url(#pce6e194173)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <defs>
+       <path id="m7d3bc699dc" d="M 0 0 
+L -3.5 0 
+" style="stroke: #555555; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7d3bc699dc" x="58.01875" y="358.062758" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- −2000 -->
+      <g style="fill: #555555" transform="translate(22.815625 361.942446) scale(0.1 -0.1)">
+       <defs>
+        <path id="Ubuntu-2212" d="M 339 2138 
+L 3270 2138 
+L 3270 1632 
+L 339 1632 
+L 339 2138 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Ubuntu-2212"/>
+       <use xlink:href="#Ubuntu-32" x="56.399994"/>
+       <use xlink:href="#Ubuntu-30" x="112.799988"/>
+       <use xlink:href="#Ubuntu-30" x="169.199982"/>
+       <use xlink:href="#Ubuntu-30" x="225.599976"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_11">
+      <path d="M 58.01875 276.424166 
+L 677.542187 276.424166 
+" clip-path="url(#pce6e194173)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m7d3bc699dc" x="58.01875" y="276.424166" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- −1000 -->
+      <g style="fill: #555555" transform="translate(22.815625 280.303853) scale(0.1 -0.1)">
+       <use xlink:href="#Ubuntu-2212"/>
+       <use xlink:href="#Ubuntu-31" x="56.399994"/>
+       <use xlink:href="#Ubuntu-30" x="112.799988"/>
+       <use xlink:href="#Ubuntu-30" x="169.199982"/>
+       <use xlink:href="#Ubuntu-30" x="225.599976"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_13">
+      <path d="M 58.01875 194.785573 
+L 677.542187 194.785573 
+" clip-path="url(#pce6e194173)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m7d3bc699dc" x="58.01875" y="194.785573" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 0 -->
+      <g style="fill: #555555" transform="translate(45.378125 198.66526) scale(0.1 -0.1)">
+       <use xlink:href="#Ubuntu-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_15">
+      <path d="M 58.01875 113.14698 
+L 677.542187 113.14698 
+" clip-path="url(#pce6e194173)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m7d3bc699dc" x="58.01875" y="113.14698" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 1000 -->
+      <g style="fill: #555555" transform="translate(28.45625 117.026667) scale(0.1 -0.1)">
+       <use xlink:href="#Ubuntu-31"/>
+       <use xlink:href="#Ubuntu-30" x="56.399994"/>
+       <use xlink:href="#Ubuntu-30" x="112.799988"/>
+       <use xlink:href="#Ubuntu-30" x="169.199982"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_17">
+      <path d="M 58.01875 31.508387 
+L 677.542187 31.508387 
+" clip-path="url(#pce6e194173)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m7d3bc699dc" x="58.01875" y="31.508387" style="fill: #555555; stroke: #555555; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 2000 -->
+      <g style="fill: #555555" transform="translate(28.45625 35.388075) scale(0.1 -0.1)">
+       <use xlink:href="#Ubuntu-32"/>
+       <use xlink:href="#Ubuntu-30" x="56.399994"/>
+       <use xlink:href="#Ubuntu-30" x="112.799988"/>
+       <use xlink:href="#Ubuntu-30" x="169.199982"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_14">
+     <!-- CO2 [MtCO2/a] -->
+     <g style="fill: #555555" transform="translate(16.595625 236.407344) rotate(-90) scale(0.12 -0.12)">
+      <defs>
+       <path id="Ubuntu-43" d="M 2458 -96 
+Q 1990 -96 1606 57 
+Q 1222 211 947 505 
+Q 672 800 521 1232 
+Q 371 1664 371 2221 
+Q 371 2778 540 3210 
+Q 710 3642 998 3936 
+Q 1286 4230 1670 4384 
+Q 2054 4538 2490 4538 
+Q 2765 4538 2985 4499 
+Q 3206 4461 3369 4409 
+Q 3533 4358 3635 4307 
+Q 3738 4256 3776 4230 
+L 3597 3718 
+Q 3539 3757 3430 3801 
+Q 3322 3846 3184 3891 
+Q 3046 3936 2883 3965 
+Q 2720 3994 2554 3994 
+Q 2202 3994 1920 3872 
+Q 1638 3750 1440 3520 
+Q 1242 3290 1136 2960 
+Q 1030 2630 1030 2221 
+Q 1030 1824 1123 1497 
+Q 1216 1171 1401 937 
+Q 1587 704 1865 576 
+Q 2144 448 2515 448 
+Q 2944 448 3225 537 
+Q 3507 627 3648 698 
+L 3808 186 
+Q 3763 154 3648 106 
+Q 3533 58 3360 13 
+Q 3187 -32 2956 -64 
+Q 2726 -96 2458 -96 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-4f" d="M 371 2221 
+Q 371 2790 540 3225 
+Q 710 3661 1001 3952 
+Q 1293 4243 1680 4390 
+Q 2067 4538 2502 4538 
+Q 2931 4538 3312 4390 
+Q 3693 4243 3981 3952 
+Q 4269 3661 4438 3225 
+Q 4608 2790 4608 2221 
+Q 4608 1651 4438 1216 
+Q 4269 781 3981 489 
+Q 3693 198 3312 51 
+Q 2931 -96 2502 -96 
+Q 2067 -96 1680 51 
+Q 1293 198 1001 489 
+Q 710 781 540 1216 
+Q 371 1651 371 2221 
+z
+M 1024 2221 
+Q 1024 1818 1126 1488 
+Q 1229 1158 1417 928 
+Q 1606 698 1878 573 
+Q 2150 448 2490 448 
+Q 2829 448 3097 573 
+Q 3366 698 3555 928 
+Q 3744 1158 3846 1488 
+Q 3949 1818 3949 2221 
+Q 3949 2624 3846 2953 
+Q 3744 3283 3555 3513 
+Q 3366 3744 3097 3869 
+Q 2829 3994 2490 3994 
+Q 2150 3994 1878 3869 
+Q 1606 3744 1417 3513 
+Q 1229 3283 1126 2953 
+Q 1024 2624 1024 2221 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-5b" d="M 614 5011 
+L 2054 5011 
+L 2054 4544 
+L 1171 4544 
+L 1171 -717 
+L 2054 -717 
+L 2054 -1184 
+L 614 -1184 
+L 614 5011 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-4d" d="M 2541 614 
+Q 2477 768 2371 1005 
+Q 2266 1242 2144 1517 
+Q 2022 1792 1884 2083 
+Q 1747 2374 1625 2633 
+Q 1504 2893 1398 3097 
+Q 1293 3302 1229 3411 
+Q 1158 2656 1113 1776 
+Q 1069 896 1037 0 
+L 429 0 
+Q 454 576 486 1161 
+Q 518 1747 560 2313 
+Q 602 2880 650 3417 
+Q 698 3955 755 4435 
+L 1299 4435 
+Q 1472 4154 1670 3770 
+Q 1869 3386 2067 2966 
+Q 2266 2547 2451 2128 
+Q 2637 1709 2790 1363 
+Q 2944 1709 3129 2128 
+Q 3315 2547 3513 2966 
+Q 3712 3386 3910 3770 
+Q 4109 4154 4282 4435 
+L 4826 4435 
+Q 5043 2291 5152 0 
+L 4544 0 
+Q 4512 896 4467 1776 
+Q 4422 2656 4352 3411 
+Q 4288 3302 4182 3097 
+Q 4077 2893 3955 2633 
+Q 3834 2374 3696 2083 
+Q 3558 1792 3436 1517 
+Q 3315 1242 3209 1005 
+Q 3104 768 3040 614 
+L 2541 614 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-2f" d="M 454 -1184 
+L -154 -1184 
+L 2016 5011 
+L 2611 5011 
+L 454 -1184 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-5d" d="M 1491 -1184 
+L 51 -1184 
+L 51 -717 
+L 934 -717 
+L 934 4544 
+L 51 4544 
+L 51 5011 
+L 1491 5011 
+L 1491 -1184 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Ubuntu-43"/>
+      <use xlink:href="#Ubuntu-4f" x="59.999985"/>
+      <use xlink:href="#Ubuntu-32" x="137.799973"/>
+      <use xlink:href="#Ubuntu-20" x="194.199966"/>
+      <use xlink:href="#Ubuntu-5b" x="217.299957"/>
+      <use xlink:href="#Ubuntu-4d" x="250.199951"/>
+      <use xlink:href="#Ubuntu-74" x="337.299942"/>
+      <use xlink:href="#Ubuntu-43" x="377.499939"/>
+      <use xlink:href="#Ubuntu-4f" x="437.499924"/>
+      <use xlink:href="#Ubuntu-32" x="515.299911"/>
+      <use xlink:href="#Ubuntu-2f" x="571.699905"/>
+      <use xlink:href="#Ubuntu-61" x="610.099899"/>
+      <use xlink:href="#Ubuntu-5d" x="659.299896"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 77.378857 194.785573 
+L 116.099072 194.785573 
+L 116.099072 194.785573 
+L 77.378857 194.785573 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e3d37d"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 154.819287 194.785573 
+L 193.539502 194.785573 
+L 193.539502 195.840886 
+L 154.819287 195.840886 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e3d37d"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 232.259717 194.785573 
+L 270.979932 194.785573 
+L 270.979932 200.465678 
+L 232.259717 200.465678 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e3d37d"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 309.700146 194.785573 
+L 348.420361 194.785573 
+L 348.420361 196.324182 
+L 309.700146 196.324182 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e3d37d"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 387.140576 194.785573 
+L 425.860791 194.785573 
+L 425.860791 194.785573 
+L 387.140576 194.785573 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e3d37d"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 464.581006 194.785573 
+L 503.301221 194.785573 
+L 503.301221 194.785573 
+L 464.581006 194.785573 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e3d37d"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 542.021436 194.785573 
+L 580.74165 194.785573 
+L 580.74165 194.785573 
+L 542.021436 194.785573 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e3d37d"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 619.461865 194.785573 
+L 658.18208 194.785573 
+L 658.18208 194.785573 
+L 619.461865 194.785573 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e3d37d"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 77.378857 194.785573 
+L 116.099072 194.785573 
+L 116.099072 195.094031 
+L 77.378857 195.094031 
+z
+" clip-path="url(#pce6e194173)" style="fill: #8a5751"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 154.819287 194.785573 
+L 193.539502 194.785573 
+L 193.539502 194.785572 
+L 154.819287 194.785572 
+z
+" clip-path="url(#pce6e194173)" style="fill: #8a5751"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 232.259717 200.465678 
+L 270.979932 200.465678 
+L 270.979932 202.216004 
+L 232.259717 202.216004 
+z
+" clip-path="url(#pce6e194173)" style="fill: #8a5751"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 309.700146 196.324182 
+L 348.420361 196.324182 
+L 348.420361 197.507784 
+L 309.700146 197.507784 
+z
+" clip-path="url(#pce6e194173)" style="fill: #8a5751"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 387.140576 194.785573 
+L 425.860791 194.785573 
+L 425.860791 198.918538 
+L 387.140576 198.918538 
+z
+" clip-path="url(#pce6e194173)" style="fill: #8a5751"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 464.581006 194.785573 
+L 503.301221 194.785573 
+L 503.301221 197.466104 
+L 464.581006 197.466104 
+z
+" clip-path="url(#pce6e194173)" style="fill: #8a5751"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 542.021436 194.785573 
+L 580.74165 194.785573 
+L 580.74165 197.24348 
+L 542.021436 197.24348 
+z
+" clip-path="url(#pce6e194173)" style="fill: #8a5751"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 619.461865 194.785573 
+L 658.18208 194.785573 
+L 658.18208 196.503911 
+L 619.461865 196.503911 
+z
+" clip-path="url(#pce6e194173)" style="fill: #8a5751"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 77.378857 194.785573 
+L 116.099072 194.785573 
+L 116.099072 194.068205 
+L 77.378857 194.068205 
+z
+" clip-path="url(#pce6e194173)" style="fill: #db6a25"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 154.819287 194.785572 
+L 193.539502 194.785572 
+L 193.539502 165.819805 
+L 154.819287 165.819805 
+z
+" clip-path="url(#pce6e194173)" style="fill: #db6a25"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 232.259717 194.785573 
+L 270.979932 194.785573 
+L 270.979932 193.628583 
+L 232.259717 193.628583 
+z
+" clip-path="url(#pce6e194173)" style="fill: #db6a25"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 309.700146 194.785573 
+L 348.420361 194.785573 
+L 348.420361 194.666268 
+L 309.700146 194.666268 
+z
+" clip-path="url(#pce6e194173)" style="fill: #db6a25"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 387.140576 194.785573 
+L 425.860791 194.785573 
+L 425.860791 194.706683 
+L 387.140576 194.706683 
+z
+" clip-path="url(#pce6e194173)" style="fill: #db6a25"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 464.581006 194.785573 
+L 503.301221 194.785573 
+L 503.301221 194.513239 
+L 464.581006 194.513239 
+z
+" clip-path="url(#pce6e194173)" style="fill: #db6a25"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 542.021436 194.785573 
+L 580.74165 194.785573 
+L 580.74165 194.394047 
+L 542.021436 194.394047 
+z
+" clip-path="url(#pce6e194173)" style="fill: #db6a25"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 619.461865 194.785573 
+L 658.18208 194.785573 
+L 658.18208 194.26804 
+L 619.461865 194.26804 
+z
+" clip-path="url(#pce6e194173)" style="fill: #db6a25"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 77.378857 195.094031 
+L 116.099072 195.094031 
+L 116.099072 195.094031 
+L 77.378857 195.094031 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a85522"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 154.819287 165.819805 
+L 193.539502 165.819805 
+L 193.539502 159.893792 
+L 154.819287 159.893792 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a85522"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 232.259717 193.628583 
+L 270.979932 193.628583 
+L 270.979932 193.602522 
+L 232.259717 193.602522 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a85522"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 309.700146 194.666268 
+L 348.420361 194.666268 
+L 348.420361 194.666267 
+L 309.700146 194.666267 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a85522"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 387.140576 194.706683 
+L 425.860791 194.706683 
+L 425.860791 194.706683 
+L 387.140576 194.706683 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a85522"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 464.581006 197.466104 
+L 503.301221 197.466104 
+L 503.301221 197.466104 
+L 464.581006 197.466104 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a85522"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 542.021436 197.24348 
+L 580.74165 197.24348 
+L 580.74165 197.24348 
+L 542.021436 197.24348 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a85522"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 619.461865 196.503911 
+L 658.18208 196.503911 
+L 658.18208 196.503911 
+L 619.461865 196.503911 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a85522"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 77.378857 195.094031 
+L 116.099072 195.094031 
+L 116.099072 205.749866 
+L 77.378857 205.749866 
+z
+" clip-path="url(#pce6e194173)" style="fill: #ff5270"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 154.819287 195.840886 
+L 193.539502 195.840886 
+L 193.539502 195.84089 
+L 154.819287 195.84089 
+z
+" clip-path="url(#pce6e194173)" style="fill: #ff5270"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 232.259717 202.216004 
+L 270.979932 202.216004 
+L 270.979932 202.314902 
+L 232.259717 202.314902 
+z
+" clip-path="url(#pce6e194173)" style="fill: #ff5270"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 309.700146 197.507784 
+L 348.420361 197.507784 
+L 348.420361 205.276453 
+L 309.700146 205.276453 
+z
+" clip-path="url(#pce6e194173)" style="fill: #ff5270"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 387.140576 198.918538 
+L 425.860791 198.918538 
+L 425.860791 205.143673 
+L 387.140576 205.143673 
+z
+" clip-path="url(#pce6e194173)" style="fill: #ff5270"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 464.581006 197.466104 
+L 503.301221 197.466104 
+L 503.301221 205.327335 
+L 464.581006 205.327335 
+z
+" clip-path="url(#pce6e194173)" style="fill: #ff5270"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 542.021436 197.24348 
+L 580.74165 197.24348 
+L 580.74165 205.4405 
+L 542.021436 205.4405 
+z
+" clip-path="url(#pce6e194173)" style="fill: #ff5270"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 619.461865 196.503911 
+L 658.18208 196.503911 
+L 658.18208 205.560135 
+L 619.461865 205.560135 
+z
+" clip-path="url(#pce6e194173)" style="fill: #ff5270"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 77.378857 194.068205 
+L 116.099072 194.068205 
+L 116.099072 194.068205 
+L 77.378857 194.068205 
+z
+" clip-path="url(#pce6e194173)" style="fill: #4f1745"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 154.819287 159.893792 
+L 193.539502 159.893792 
+L 193.539502 159.238299 
+L 154.819287 159.238299 
+z
+" clip-path="url(#pce6e194173)" style="fill: #4f1745"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 232.259717 193.602522 
+L 270.979932 193.602522 
+L 270.979932 193.545081 
+L 232.259717 193.545081 
+z
+" clip-path="url(#pce6e194173)" style="fill: #4f1745"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 309.700146 194.666267 
+L 348.420361 194.666267 
+L 348.420361 194.632668 
+L 309.700146 194.632668 
+z
+" clip-path="url(#pce6e194173)" style="fill: #4f1745"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 387.140576 194.706683 
+L 425.860791 194.706683 
+L 425.860791 194.706683 
+L 387.140576 194.706683 
+z
+" clip-path="url(#pce6e194173)" style="fill: #4f1745"/>
+   </g>
+   <g id="patch_48">
+    <path d="M 464.581006 194.513239 
+L 503.301221 194.513239 
+L 503.301221 194.513239 
+L 464.581006 194.513239 
+z
+" clip-path="url(#pce6e194173)" style="fill: #4f1745"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 542.021436 194.394047 
+L 580.74165 194.394047 
+L 580.74165 194.394047 
+L 542.021436 194.394047 
+z
+" clip-path="url(#pce6e194173)" style="fill: #4f1745"/>
+   </g>
+   <g id="patch_50">
+    <path d="M 619.461865 194.26804 
+L 658.18208 194.26804 
+L 658.18208 194.26804 
+L 619.461865 194.26804 
+z
+" clip-path="url(#pce6e194173)" style="fill: #4f1745"/>
+   </g>
+   <g id="patch_51">
+    <path d="M 77.378857 194.068205 
+L 116.099072 194.068205 
+L 116.099072 191.909507 
+L 77.378857 191.909507 
+z
+" clip-path="url(#pce6e194173)" style="fill: #949494"/>
+   </g>
+   <g id="patch_52">
+    <path d="M 154.819287 159.238299 
+L 193.539502 159.238299 
+L 193.539502 157.079601 
+L 154.819287 157.079601 
+z
+" clip-path="url(#pce6e194173)" style="fill: #949494"/>
+   </g>
+   <g id="patch_53">
+    <path d="M 232.259717 193.545081 
+L 270.979932 193.545081 
+L 270.979932 191.386383 
+L 232.259717 191.386383 
+z
+" clip-path="url(#pce6e194173)" style="fill: #949494"/>
+   </g>
+   <g id="patch_54">
+    <path d="M 309.700146 194.632668 
+L 348.420361 194.632668 
+L 348.420361 192.473969 
+L 309.700146 192.473969 
+z
+" clip-path="url(#pce6e194173)" style="fill: #949494"/>
+   </g>
+   <g id="patch_55">
+    <path d="M 387.140576 194.706683 
+L 425.860791 194.706683 
+L 425.860791 192.547985 
+L 387.140576 192.547985 
+z
+" clip-path="url(#pce6e194173)" style="fill: #949494"/>
+   </g>
+   <g id="patch_56">
+    <path d="M 464.581006 194.513239 
+L 503.301221 194.513239 
+L 503.301221 192.354541 
+L 464.581006 192.354541 
+z
+" clip-path="url(#pce6e194173)" style="fill: #949494"/>
+   </g>
+   <g id="patch_57">
+    <path d="M 542.021436 194.394047 
+L 580.74165 194.394047 
+L 580.74165 192.235349 
+L 542.021436 192.235349 
+z
+" clip-path="url(#pce6e194173)" style="fill: #949494"/>
+   </g>
+   <g id="patch_58">
+    <path d="M 619.461865 194.26804 
+L 658.18208 194.26804 
+L 658.18208 192.109342 
+L 619.461865 192.109342 
+z
+" clip-path="url(#pce6e194173)" style="fill: #949494"/>
+   </g>
+   <g id="patch_59">
+    <path d="M 77.378857 205.749866 
+L 116.099072 205.749866 
+L 116.099072 205.749866 
+L 77.378857 205.749866 
+z
+" clip-path="url(#pce6e194173)" style="fill: #f29dae"/>
+   </g>
+   <g id="patch_60">
+    <path d="M 154.819287 195.84089 
+L 193.539502 195.84089 
+L 193.539502 364.97669 
+L 154.819287 364.97669 
+z
+" clip-path="url(#pce6e194173)" style="fill: #f29dae"/>
+   </g>
+   <g id="patch_61">
+    <path d="M 232.259717 202.314902 
+L 270.979932 202.314902 
+L 270.979932 239.900636 
+L 232.259717 239.900636 
+z
+" clip-path="url(#pce6e194173)" style="fill: #f29dae"/>
+   </g>
+   <g id="patch_62">
+    <path d="M 309.700146 205.276453 
+L 348.420361 205.276453 
+L 348.420361 205.276453 
+L 309.700146 205.276453 
+z
+" clip-path="url(#pce6e194173)" style="fill: #f29dae"/>
+   </g>
+   <g id="patch_63">
+    <path d="M 387.140576 205.143673 
+L 425.860791 205.143673 
+L 425.860791 205.143673 
+L 387.140576 205.143673 
+z
+" clip-path="url(#pce6e194173)" style="fill: #f29dae"/>
+   </g>
+   <g id="patch_64">
+    <path d="M 464.581006 205.327335 
+L 503.301221 205.327335 
+L 503.301221 205.327335 
+L 464.581006 205.327335 
+z
+" clip-path="url(#pce6e194173)" style="fill: #f29dae"/>
+   </g>
+   <g id="patch_65">
+    <path d="M 542.021436 205.4405 
+L 580.74165 205.4405 
+L 580.74165 205.4405 
+L 542.021436 205.4405 
+z
+" clip-path="url(#pce6e194173)" style="fill: #f29dae"/>
+   </g>
+   <g id="patch_66">
+    <path d="M 619.461865 205.560135 
+L 658.18208 205.560135 
+L 658.18208 205.560135 
+L 619.461865 205.560135 
+z
+" clip-path="url(#pce6e194173)" style="fill: #f29dae"/>
+   </g>
+   <g id="patch_67">
+    <path d="M 77.378857 205.749866 
+L 116.099072 205.749866 
+L 116.099072 205.749866 
+L 77.378857 205.749866 
+z
+" clip-path="url(#pce6e194173)" style="fill: #343434"/>
+   </g>
+   <g id="patch_68">
+    <path d="M 154.819287 157.079601 
+L 193.539502 157.079601 
+L 193.539502 147.723774 
+L 154.819287 147.723774 
+z
+" clip-path="url(#pce6e194173)" style="fill: #343434"/>
+   </g>
+   <g id="patch_69">
+    <path d="M 232.259717 191.386383 
+L 270.979932 191.386383 
+L 270.979932 188.476553 
+L 232.259717 188.476553 
+z
+" clip-path="url(#pce6e194173)" style="fill: #343434"/>
+   </g>
+   <g id="patch_70">
+    <path d="M 309.700146 205.276453 
+L 348.420361 205.276453 
+L 348.420361 205.276453 
+L 309.700146 205.276453 
+z
+" clip-path="url(#pce6e194173)" style="fill: #343434"/>
+   </g>
+   <g id="patch_71">
+    <path d="M 387.140576 205.143673 
+L 425.860791 205.143673 
+L 425.860791 205.143673 
+L 387.140576 205.143673 
+z
+" clip-path="url(#pce6e194173)" style="fill: #343434"/>
+   </g>
+   <g id="patch_72">
+    <path d="M 464.581006 205.327335 
+L 503.301221 205.327335 
+L 503.301221 205.327335 
+L 464.581006 205.327335 
+z
+" clip-path="url(#pce6e194173)" style="fill: #343434"/>
+   </g>
+   <g id="patch_73">
+    <path d="M 542.021436 205.4405 
+L 580.74165 205.4405 
+L 580.74165 205.4405 
+L 542.021436 205.4405 
+z
+" clip-path="url(#pce6e194173)" style="fill: #343434"/>
+   </g>
+   <g id="patch_74">
+    <path d="M 619.461865 205.560135 
+L 658.18208 205.560135 
+L 658.18208 205.560135 
+L 619.461865 205.560135 
+z
+" clip-path="url(#pce6e194173)" style="fill: #343434"/>
+   </g>
+   <g id="patch_75">
+    <path d="M 77.378857 191.909507 
+L 116.099072 191.909507 
+L 116.099072 191.909507 
+L 77.378857 191.909507 
+z
+" clip-path="url(#pce6e194173)" style="fill: #853403"/>
+   </g>
+   <g id="patch_76">
+    <path d="M 154.819287 147.723774 
+L 193.539502 147.723774 
+L 193.539502 132.770696 
+L 154.819287 132.770696 
+z
+" clip-path="url(#pce6e194173)" style="fill: #853403"/>
+   </g>
+   <g id="patch_77">
+    <path d="M 232.259717 188.476553 
+L 270.979932 188.476553 
+L 270.979932 188.476553 
+L 232.259717 188.476553 
+z
+" clip-path="url(#pce6e194173)" style="fill: #853403"/>
+   </g>
+   <g id="patch_78">
+    <path d="M 309.700146 192.473969 
+L 348.420361 192.473969 
+L 348.420361 192.473969 
+L 309.700146 192.473969 
+z
+" clip-path="url(#pce6e194173)" style="fill: #853403"/>
+   </g>
+   <g id="patch_79">
+    <path d="M 387.140576 192.547985 
+L 425.860791 192.547985 
+L 425.860791 192.547985 
+L 387.140576 192.547985 
+z
+" clip-path="url(#pce6e194173)" style="fill: #853403"/>
+   </g>
+   <g id="patch_80">
+    <path d="M 464.581006 192.354541 
+L 503.301221 192.354541 
+L 503.301221 192.354541 
+L 464.581006 192.354541 
+z
+" clip-path="url(#pce6e194173)" style="fill: #853403"/>
+   </g>
+   <g id="patch_81">
+    <path d="M 542.021436 192.235349 
+L 580.74165 192.235349 
+L 580.74165 192.235349 
+L 542.021436 192.235349 
+z
+" clip-path="url(#pce6e194173)" style="fill: #853403"/>
+   </g>
+   <g id="patch_82">
+    <path d="M 619.461865 192.109342 
+L 658.18208 192.109342 
+L 658.18208 192.109342 
+L 619.461865 192.109342 
+z
+" clip-path="url(#pce6e194173)" style="fill: #853403"/>
+   </g>
+   <g id="patch_83">
+    <path d="M 77.378857 191.909507 
+L 116.099072 191.909507 
+L 116.099072 191.70174 
+L 77.378857 191.70174 
+z
+" clip-path="url(#pce6e194173)" style="fill: #692e0a"/>
+   </g>
+   <g id="patch_84">
+    <path d="M 154.819287 132.770696 
+L 193.539502 132.770696 
+L 193.539502 132.770696 
+L 154.819287 132.770696 
+z
+" clip-path="url(#pce6e194173)" style="fill: #692e0a"/>
+   </g>
+   <g id="patch_85">
+    <path d="M 232.259717 188.476553 
+L 270.979932 188.476553 
+L 270.979932 188.017707 
+L 232.259717 188.017707 
+z
+" clip-path="url(#pce6e194173)" style="fill: #692e0a"/>
+   </g>
+   <g id="patch_86">
+    <path d="M 309.700146 192.473969 
+L 348.420361 192.473969 
+L 348.420361 192.266202 
+L 309.700146 192.266202 
+z
+" clip-path="url(#pce6e194173)" style="fill: #692e0a"/>
+   </g>
+   <g id="patch_87">
+    <path d="M 387.140576 192.547985 
+L 425.860791 192.547985 
+L 425.860791 192.340218 
+L 387.140576 192.340218 
+z
+" clip-path="url(#pce6e194173)" style="fill: #692e0a"/>
+   </g>
+   <g id="patch_88">
+    <path d="M 464.581006 192.354541 
+L 503.301221 192.354541 
+L 503.301221 192.146774 
+L 464.581006 192.146774 
+z
+" clip-path="url(#pce6e194173)" style="fill: #692e0a"/>
+   </g>
+   <g id="patch_89">
+    <path d="M 542.021436 192.235349 
+L 580.74165 192.235349 
+L 580.74165 192.027582 
+L 542.021436 192.027582 
+z
+" clip-path="url(#pce6e194173)" style="fill: #692e0a"/>
+   </g>
+   <g id="patch_90">
+    <path d="M 619.461865 192.109342 
+L 658.18208 192.109342 
+L 658.18208 191.901575 
+L 619.461865 191.901575 
+z
+" clip-path="url(#pce6e194173)" style="fill: #692e0a"/>
+   </g>
+   <g id="patch_91">
+    <path d="M 77.378857 191.70174 
+L 116.099072 191.70174 
+L 116.099072 176.087666 
+L 77.378857 176.087666 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a1ffe6"/>
+   </g>
+   <g id="patch_92">
+    <path d="M 154.819287 132.770696 
+L 193.539502 132.770696 
+L 193.539502 117.156623 
+L 154.819287 117.156623 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a1ffe6"/>
+   </g>
+   <g id="patch_93">
+    <path d="M 232.259717 188.017707 
+L 270.979932 188.017707 
+L 270.979932 172.403634 
+L 232.259717 172.403634 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a1ffe6"/>
+   </g>
+   <g id="patch_94">
+    <path d="M 309.700146 192.266202 
+L 348.420361 192.266202 
+L 348.420361 176.652129 
+L 309.700146 176.652129 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a1ffe6"/>
+   </g>
+   <g id="patch_95">
+    <path d="M 387.140576 192.340218 
+L 425.860791 192.340218 
+L 425.860791 176.726144 
+L 387.140576 176.726144 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a1ffe6"/>
+   </g>
+   <g id="patch_96">
+    <path d="M 464.581006 192.146774 
+L 503.301221 192.146774 
+L 503.301221 176.5327 
+L 464.581006 176.5327 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a1ffe6"/>
+   </g>
+   <g id="patch_97">
+    <path d="M 542.021436 192.027582 
+L 580.74165 192.027582 
+L 580.74165 176.413509 
+L 542.021436 176.413509 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a1ffe6"/>
+   </g>
+   <g id="patch_98">
+    <path d="M 619.461865 191.901575 
+L 658.18208 191.901575 
+L 658.18208 176.287502 
+L 619.461865 176.287502 
+z
+" clip-path="url(#pce6e194173)" style="fill: #a1ffe6"/>
+   </g>
+   <g id="patch_99">
+    <path d="M 77.378857 205.749866 
+L 116.099072 205.749866 
+L 116.099072 205.749866 
+L 77.378857 205.749866 
+z
+" clip-path="url(#pce6e194173)" style="fill: #afafaf"/>
+   </g>
+   <g id="patch_100">
+    <path d="M 154.819287 117.156623 
+L 193.539502 117.156623 
+L 193.539502 70.762421 
+L 154.819287 70.762421 
+z
+" clip-path="url(#pce6e194173)" style="fill: #afafaf"/>
+   </g>
+   <g id="patch_101">
+    <path d="M 232.259717 172.403634 
+L 270.979932 172.403634 
+L 270.979932 152.520405 
+L 232.259717 152.520405 
+z
+" clip-path="url(#pce6e194173)" style="fill: #afafaf"/>
+   </g>
+   <g id="patch_102">
+    <path d="M 309.700146 205.276453 
+L 348.420361 205.276453 
+L 348.420361 205.276453 
+L 309.700146 205.276453 
+z
+" clip-path="url(#pce6e194173)" style="fill: #afafaf"/>
+   </g>
+   <g id="patch_103">
+    <path d="M 387.140576 205.143673 
+L 425.860791 205.143673 
+L 425.860791 205.143673 
+L 387.140576 205.143673 
+z
+" clip-path="url(#pce6e194173)" style="fill: #afafaf"/>
+   </g>
+   <g id="patch_104">
+    <path d="M 464.581006 205.327335 
+L 503.301221 205.327335 
+L 503.301221 205.327335 
+L 464.581006 205.327335 
+z
+" clip-path="url(#pce6e194173)" style="fill: #afafaf"/>
+   </g>
+   <g id="patch_105">
+    <path d="M 542.021436 205.4405 
+L 580.74165 205.4405 
+L 580.74165 205.4405 
+L 542.021436 205.4405 
+z
+" clip-path="url(#pce6e194173)" style="fill: #afafaf"/>
+   </g>
+   <g id="patch_106">
+    <path d="M 619.461865 205.560135 
+L 658.18208 205.560135 
+L 658.18208 205.560135 
+L 619.461865 205.560135 
+z
+" clip-path="url(#pce6e194173)" style="fill: #afafaf"/>
+   </g>
+   <g id="patch_107">
+    <path d="M 77.378857 176.087666 
+L 116.099072 176.087666 
+L 116.099072 171.155005 
+L 77.378857 171.155005 
+z
+" clip-path="url(#pce6e194173)" style="fill: #57ebc4"/>
+   </g>
+   <g id="patch_108">
+    <path d="M 154.819287 70.762421 
+L 193.539502 70.762421 
+L 193.539502 56.210634 
+L 154.819287 56.210634 
+z
+" clip-path="url(#pce6e194173)" style="fill: #57ebc4"/>
+   </g>
+   <g id="patch_109">
+    <path d="M 232.259717 152.520405 
+L 270.979932 152.520405 
+L 270.979932 143.243082 
+L 232.259717 143.243082 
+z
+" clip-path="url(#pce6e194173)" style="fill: #57ebc4"/>
+   </g>
+   <g id="patch_110">
+    <path d="M 309.700146 176.652129 
+L 348.420361 176.652129 
+L 348.420361 171.719468 
+L 309.700146 171.719468 
+z
+" clip-path="url(#pce6e194173)" style="fill: #57ebc4"/>
+   </g>
+   <g id="patch_111">
+    <path d="M 387.140576 176.726144 
+L 425.860791 176.726144 
+L 425.860791 171.793483 
+L 387.140576 171.793483 
+z
+" clip-path="url(#pce6e194173)" style="fill: #57ebc4"/>
+   </g>
+   <g id="patch_112">
+    <path d="M 464.581006 176.5327 
+L 503.301221 176.5327 
+L 503.301221 171.600039 
+L 464.581006 171.600039 
+z
+" clip-path="url(#pce6e194173)" style="fill: #57ebc4"/>
+   </g>
+   <g id="patch_113">
+    <path d="M 542.021436 176.413509 
+L 580.74165 176.413509 
+L 580.74165 171.480847 
+L 542.021436 171.480847 
+z
+" clip-path="url(#pce6e194173)" style="fill: #57ebc4"/>
+   </g>
+   <g id="patch_114">
+    <path d="M 619.461865 176.287502 
+L 658.18208 176.287502 
+L 658.18208 171.35484 
+L 619.461865 171.35484 
+z
+" clip-path="url(#pce6e194173)" style="fill: #57ebc4"/>
+   </g>
+   <g id="patch_115">
+    <path d="M 77.378857 205.749866 
+L 116.099072 205.749866 
+L 116.099072 205.749866 
+L 77.378857 205.749866 
+z
+" clip-path="url(#pce6e194173)" style="fill: #adadad"/>
+   </g>
+   <g id="patch_116">
+    <path d="M 154.819287 56.210634 
+L 193.539502 56.210634 
+L 193.539502 55.635894 
+L 154.819287 55.635894 
+z
+" clip-path="url(#pce6e194173)" style="fill: #adadad"/>
+   </g>
+   <g id="patch_117">
+    <path d="M 232.259717 239.900636 
+L 270.979932 239.900636 
+L 270.979932 239.900636 
+L 232.259717 239.900636 
+z
+" clip-path="url(#pce6e194173)" style="fill: #adadad"/>
+   </g>
+   <g id="patch_118">
+    <path d="M 309.700146 205.276453 
+L 348.420361 205.276453 
+L 348.420361 205.276453 
+L 309.700146 205.276453 
+z
+" clip-path="url(#pce6e194173)" style="fill: #adadad"/>
+   </g>
+   <g id="patch_119">
+    <path d="M 387.140576 205.143673 
+L 425.860791 205.143673 
+L 425.860791 205.143673 
+L 387.140576 205.143673 
+z
+" clip-path="url(#pce6e194173)" style="fill: #adadad"/>
+   </g>
+   <g id="patch_120">
+    <path d="M 464.581006 205.327335 
+L 503.301221 205.327335 
+L 503.301221 205.327335 
+L 464.581006 205.327335 
+z
+" clip-path="url(#pce6e194173)" style="fill: #adadad"/>
+   </g>
+   <g id="patch_121">
+    <path d="M 542.021436 205.4405 
+L 580.74165 205.4405 
+L 580.74165 205.4405 
+L 542.021436 205.4405 
+z
+" clip-path="url(#pce6e194173)" style="fill: #adadad"/>
+   </g>
+   <g id="patch_122">
+    <path d="M 619.461865 205.560135 
+L 658.18208 205.560135 
+L 658.18208 205.560135 
+L 619.461865 205.560135 
+z
+" clip-path="url(#pce6e194173)" style="fill: #adadad"/>
+   </g>
+   <g id="patch_123">
+    <path d="M 77.378857 171.155005 
+L 116.099072 171.155005 
+L 116.099072 171.084195 
+L 77.378857 171.084195 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e6e6e6"/>
+   </g>
+   <g id="patch_124">
+    <path d="M 154.819287 55.635894 
+L 193.539502 55.635894 
+L 193.539502 50.93774 
+L 154.819287 50.93774 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e6e6e6"/>
+   </g>
+   <g id="patch_125">
+    <path d="M 232.259717 143.243082 
+L 270.979932 143.243082 
+L 270.979932 141.559658 
+L 232.259717 141.559658 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e6e6e6"/>
+   </g>
+   <g id="patch_126">
+    <path d="M 309.700146 171.719468 
+L 348.420361 171.719468 
+L 348.420361 171.557608 
+L 309.700146 171.557608 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e6e6e6"/>
+   </g>
+   <g id="patch_127">
+    <path d="M 387.140576 171.793483 
+L 425.860791 171.793483 
+L 425.860791 171.690389 
+L 387.140576 171.690389 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e6e6e6"/>
+   </g>
+   <g id="patch_128">
+    <path d="M 464.581006 171.600039 
+L 503.301221 171.600039 
+L 503.301221 171.506726 
+L 464.581006 171.506726 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e6e6e6"/>
+   </g>
+   <g id="patch_129">
+    <path d="M 542.021436 171.480847 
+L 580.74165 171.480847 
+L 580.74165 171.393561 
+L 542.021436 171.393561 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e6e6e6"/>
+   </g>
+   <g id="patch_130">
+    <path d="M 619.461865 171.35484 
+L 658.18208 171.35484 
+L 658.18208 171.273926 
+L 619.461865 171.273926 
+z
+" clip-path="url(#pce6e194173)" style="fill: #e6e6e6"/>
+   </g>
+   <g id="patch_131">
+    <path d="M 77.378857 171.084195 
+L 116.099072 171.084195 
+L 116.099072 171.084195 
+L 77.378857 171.084195 
+z
+" clip-path="url(#pce6e194173)" style="fill: #222222"/>
+   </g>
+   <g id="patch_132">
+    <path d="M 154.819287 50.93774 
+L 193.539502 50.93774 
+L 193.539502 35.971942 
+L 154.819287 35.971942 
+z
+" clip-path="url(#pce6e194173)" style="fill: #222222"/>
+   </g>
+   <g id="patch_133">
+    <path d="M 232.259717 141.559658 
+L 270.979932 141.559658 
+L 270.979932 141.559658 
+L 232.259717 141.559658 
+z
+" clip-path="url(#pce6e194173)" style="fill: #222222"/>
+   </g>
+   <g id="patch_134">
+    <path d="M 309.700146 171.557608 
+L 348.420361 171.557608 
+L 348.420361 171.557608 
+L 309.700146 171.557608 
+z
+" clip-path="url(#pce6e194173)" style="fill: #222222"/>
+   </g>
+   <g id="patch_135">
+    <path d="M 387.140576 171.690389 
+L 425.860791 171.690389 
+L 425.860791 171.690389 
+L 387.140576 171.690389 
+z
+" clip-path="url(#pce6e194173)" style="fill: #222222"/>
+   </g>
+   <g id="patch_136">
+    <path d="M 464.581006 171.506726 
+L 503.301221 171.506726 
+L 503.301221 171.506726 
+L 464.581006 171.506726 
+z
+" clip-path="url(#pce6e194173)" style="fill: #222222"/>
+   </g>
+   <g id="patch_137">
+    <path d="M 542.021436 171.393561 
+L 580.74165 171.393561 
+L 580.74165 171.393561 
+L 542.021436 171.393561 
+z
+" clip-path="url(#pce6e194173)" style="fill: #222222"/>
+   </g>
+   <g id="patch_138">
+    <path d="M 619.461865 171.273926 
+L 658.18208 171.273926 
+L 658.18208 171.273926 
+L 619.461865 171.273926 
+z
+" clip-path="url(#pce6e194173)" style="fill: #222222"/>
+   </g>
+   <g id="patch_139">
+    <path d="M 77.378857 171.084195 
+L 116.099072 171.084195 
+L 116.099072 170.537543 
+L 77.378857 170.537543 
+z
+" clip-path="url(#pce6e194173)"/>
+   </g>
+   <g id="patch_140">
+    <path d="M 154.819287 35.971942 
+L 193.539502 35.971942 
+L 193.539502 35.814769 
+L 154.819287 35.814769 
+z
+" clip-path="url(#pce6e194173)"/>
+   </g>
+   <g id="patch_141">
+    <path d="M 232.259717 141.559658 
+L 270.979932 141.559658 
+L 270.979932 140.792369 
+L 232.259717 140.792369 
+z
+" clip-path="url(#pce6e194173)"/>
+   </g>
+   <g id="patch_142">
+    <path d="M 309.700146 171.557608 
+L 348.420361 171.557608 
+L 348.420361 171.010956 
+L 309.700146 171.010956 
+z
+" clip-path="url(#pce6e194173)"/>
+   </g>
+   <g id="patch_143">
+    <path d="M 387.140576 171.690389 
+L 425.860791 171.690389 
+L 425.860791 171.143737 
+L 387.140576 171.143737 
+z
+" clip-path="url(#pce6e194173)"/>
+   </g>
+   <g id="patch_144">
+    <path d="M 464.581006 171.506726 
+L 503.301221 171.506726 
+L 503.301221 170.960074 
+L 464.581006 170.960074 
+z
+" clip-path="url(#pce6e194173)"/>
+   </g>
+   <g id="patch_145">
+    <path d="M 542.021436 171.393561 
+L 580.74165 171.393561 
+L 580.74165 170.846909 
+L 542.021436 170.846909 
+z
+" clip-path="url(#pce6e194173)"/>
+   </g>
+   <g id="patch_146">
+    <path d="M 619.461865 171.273926 
+L 658.18208 171.273926 
+L 658.18208 170.727274 
+L 619.461865 170.727274 
+z
+" clip-path="url(#pce6e194173)"/>
+   </g>
+   <g id="patch_147">
+    <path d="M 77.378857 170.537543 
+L 116.099072 170.537543 
+L 116.099072 160.353833 
+L 77.378857 160.353833 
+z
+" clip-path="url(#pce6e194173)" style="fill: #468c8b"/>
+   </g>
+   <g id="patch_148">
+    <path d="M 154.819287 35.814769 
+L 193.539502 35.814769 
+L 193.539502 32.759656 
+L 154.819287 32.759656 
+z
+" clip-path="url(#pce6e194173)" style="fill: #468c8b"/>
+   </g>
+   <g id="patch_149">
+    <path d="M 232.259717 140.792369 
+L 270.979932 140.792369 
+L 270.979932 133.663771 
+L 232.259717 133.663771 
+z
+" clip-path="url(#pce6e194173)" style="fill: #468c8b"/>
+   </g>
+   <g id="patch_150">
+    <path d="M 309.700146 171.010956 
+L 348.420361 171.010956 
+L 348.420361 160.827246 
+L 309.700146 160.827246 
+z
+" clip-path="url(#pce6e194173)" style="fill: #468c8b"/>
+   </g>
+   <g id="patch_151">
+    <path d="M 387.140576 171.143737 
+L 425.860791 171.143737 
+L 425.860791 160.960027 
+L 387.140576 160.960027 
+z
+" clip-path="url(#pce6e194173)" style="fill: #468c8b"/>
+   </g>
+   <g id="patch_152">
+    <path d="M 464.581006 170.960074 
+L 503.301221 170.960074 
+L 503.301221 160.776364 
+L 464.581006 160.776364 
+z
+" clip-path="url(#pce6e194173)" style="fill: #468c8b"/>
+   </g>
+   <g id="patch_153">
+    <path d="M 542.021436 170.846909 
+L 580.74165 170.846909 
+L 580.74165 160.663199 
+L 542.021436 160.663199 
+z
+" clip-path="url(#pce6e194173)" style="fill: #468c8b"/>
+   </g>
+   <g id="patch_154">
+    <path d="M 619.461865 170.727274 
+L 658.18208 170.727274 
+L 658.18208 160.543563 
+L 619.461865 160.543563 
+z
+" clip-path="url(#pce6e194173)" style="fill: #468c8b"/>
+   </g>
+   <g id="patch_155">
+    <path d="M 77.378857 205.749866 
+L 116.099072 205.749866 
+L 116.099072 205.749866 
+L 77.378857 205.749866 
+z
+" clip-path="url(#pce6e194173)" style="fill: #808080"/>
+   </g>
+   <g id="patch_156">
+    <path d="M 154.819287 32.759656 
+L 193.539502 32.759656 
+L 193.539502 24.261293 
+L 154.819287 24.261293 
+z
+" clip-path="url(#pce6e194173)" style="fill: #808080"/>
+   </g>
+   <g id="patch_157">
+    <path d="M 232.259717 133.663771 
+L 270.979932 133.663771 
+L 270.979932 130.021615 
+L 232.259717 130.021615 
+z
+" clip-path="url(#pce6e194173)" style="fill: #808080"/>
+   </g>
+   <g id="patch_158">
+    <path d="M 309.700146 205.276453 
+L 348.420361 205.276453 
+L 348.420361 205.276453 
+L 309.700146 205.276453 
+z
+" clip-path="url(#pce6e194173)" style="fill: #808080"/>
+   </g>
+   <g id="patch_159">
+    <path d="M 387.140576 205.143673 
+L 425.860791 205.143673 
+L 425.860791 205.143673 
+L 387.140576 205.143673 
+z
+" clip-path="url(#pce6e194173)" style="fill: #808080"/>
+   </g>
+   <g id="patch_160">
+    <path d="M 464.581006 205.327335 
+L 503.301221 205.327335 
+L 503.301221 205.327335 
+L 464.581006 205.327335 
+z
+" clip-path="url(#pce6e194173)" style="fill: #808080"/>
+   </g>
+   <g id="patch_161">
+    <path d="M 542.021436 205.4405 
+L 580.74165 205.4405 
+L 580.74165 205.4405 
+L 542.021436 205.4405 
+z
+" clip-path="url(#pce6e194173)" style="fill: #808080"/>
+   </g>
+   <g id="patch_162">
+    <path d="M 619.461865 205.560135 
+L 658.18208 205.560135 
+L 658.18208 205.560135 
+L 619.461865 205.560135 
+z
+" clip-path="url(#pce6e194173)" style="fill: #808080"/>
+   </g>
+   <g id="patch_163">
+    <path d="M 77.378857 205.749866 
+L 116.099072 205.749866 
+L 116.099072 229.394274 
+L 77.378857 229.394274 
+z
+" clip-path="url(#pce6e194173)" style="fill: #47411c"/>
+   </g>
+   <g id="patch_164">
+    <path d="M 154.819287 364.97669 
+L 193.539502 364.97669 
+L 193.539502 364.976691 
+L 154.819287 364.976691 
+z
+" clip-path="url(#pce6e194173)" style="fill: #47411c"/>
+   </g>
+   <g id="patch_165">
+    <path d="M 232.259717 239.900636 
+L 270.979932 239.900636 
+L 270.979932 259.726496 
+L 232.259717 259.726496 
+z
+" clip-path="url(#pce6e194173)" style="fill: #47411c"/>
+   </g>
+   <g id="patch_166">
+    <path d="M 309.700146 205.276453 
+L 348.420361 205.276453 
+L 348.420361 228.92086 
+L 309.700146 228.92086 
+z
+" clip-path="url(#pce6e194173)" style="fill: #47411c"/>
+   </g>
+   <g id="patch_167">
+    <path d="M 387.140576 205.143673 
+L 425.860791 205.143673 
+L 425.860791 228.78808 
+L 387.140576 228.78808 
+z
+" clip-path="url(#pce6e194173)" style="fill: #47411c"/>
+   </g>
+   <g id="patch_168">
+    <path d="M 464.581006 205.327335 
+L 503.301221 205.327335 
+L 503.301221 228.971743 
+L 464.581006 228.971743 
+z
+" clip-path="url(#pce6e194173)" style="fill: #47411c"/>
+   </g>
+   <g id="patch_169">
+    <path d="M 542.021436 205.4405 
+L 580.74165 205.4405 
+L 580.74165 229.084908 
+L 542.021436 229.084908 
+z
+" clip-path="url(#pce6e194173)" style="fill: #47411c"/>
+   </g>
+   <g id="patch_170">
+    <path d="M 619.461865 205.560135 
+L 658.18208 205.560135 
+L 658.18208 229.204543 
+L 619.461865 229.204543 
+z
+" clip-path="url(#pce6e194173)" style="fill: #47411c"/>
+   </g>
+   <g id="patch_171">
+    <path d="M 77.378857 229.394274 
+L 116.099072 229.394274 
+L 116.099072 229.394274 
+L 77.378857 229.394274 
+z
+" clip-path="url(#pce6e194173)" style="fill: #32cd32"/>
+   </g>
+   <g id="patch_172">
+    <path d="M 154.819287 364.976691 
+L 193.539502 364.976691 
+L 193.539502 365.487145 
+L 154.819287 365.487145 
+z
+" clip-path="url(#pce6e194173)" style="fill: #32cd32"/>
+   </g>
+   <g id="patch_173">
+    <path d="M 232.259717 259.726496 
+L 270.979932 259.726496 
+L 270.979932 259.726496 
+L 232.259717 259.726496 
+z
+" clip-path="url(#pce6e194173)" style="fill: #32cd32"/>
+   </g>
+   <g id="patch_174">
+    <path d="M 309.700146 228.92086 
+L 348.420361 228.92086 
+L 348.420361 228.92086 
+L 309.700146 228.92086 
+z
+" clip-path="url(#pce6e194173)" style="fill: #32cd32"/>
+   </g>
+   <g id="patch_175">
+    <path d="M 387.140576 228.78808 
+L 425.860791 228.78808 
+L 425.860791 228.78808 
+L 387.140576 228.78808 
+z
+" clip-path="url(#pce6e194173)" style="fill: #32cd32"/>
+   </g>
+   <g id="patch_176">
+    <path d="M 464.581006 228.971743 
+L 503.301221 228.971743 
+L 503.301221 228.971743 
+L 464.581006 228.971743 
+z
+" clip-path="url(#pce6e194173)" style="fill: #32cd32"/>
+   </g>
+   <g id="patch_177">
+    <path d="M 542.021436 229.084908 
+L 580.74165 229.084908 
+L 580.74165 229.084908 
+L 542.021436 229.084908 
+z
+" clip-path="url(#pce6e194173)" style="fill: #32cd32"/>
+   </g>
+   <g id="patch_178">
+    <path d="M 619.461865 229.204543 
+L 658.18208 229.204543 
+L 658.18208 229.204543 
+L 619.461865 229.204543 
+z
+" clip-path="url(#pce6e194173)" style="fill: #32cd32"/>
+   </g>
+   <g id="patch_179">
+    <path d="M 58.01875 382.548437 
+L 58.01875 7.2 
+" style="fill: none; stroke: #ffffff; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_180">
+    <path d="M 677.542187 382.548437 
+L 677.542187 7.2 
+" style="fill: none; stroke: #ffffff; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_181">
+    <path d="M 58.01875 382.548437 
+L 677.542187 382.548437 
+" style="fill: none; stroke: #ffffff; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_182">
+    <path d="M 58.01875 7.2 
+L 677.542187 7.2 
+" style="fill: none; stroke: #ffffff; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_1">
+    <g id="patch_183">
+     <path d="M 686.542187 23.959375 
+L 706.542187 23.959375 
+L 706.542187 16.959375 
+L 686.542187 16.959375 
+z
+" style="fill: #32cd32"/>
+    </g>
+    <g id="text_15">
+     <!-- unsustainable bioliquids -->
+     <g transform="translate(714.542187 23.959375) scale(0.1 -0.1)">
+      <defs>
+       <path id="Ubuntu-75" d="M 3162 96 
+Q 2957 45 2621 -12 
+Q 2285 -70 1843 -70 
+Q 1459 -70 1196 42 
+Q 934 154 774 358 
+Q 614 563 544 841 
+Q 474 1120 474 1459 
+L 474 3328 
+L 1069 3328 
+L 1069 1587 
+Q 1069 979 1261 716 
+Q 1453 454 1907 454 
+Q 2003 454 2105 460 
+Q 2208 467 2297 476 
+Q 2387 486 2460 496 
+Q 2534 506 2566 518 
+L 2566 3328 
+L 3162 3328 
+L 3162 96 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-73" d="M 1286 429 
+Q 1651 429 1827 525 
+Q 2003 621 2003 832 
+Q 2003 1050 1830 1178 
+Q 1658 1306 1261 1466 
+Q 1069 1542 893 1622 
+Q 717 1702 589 1811 
+Q 461 1920 384 2073 
+Q 307 2227 307 2451 
+Q 307 2893 633 3152 
+Q 960 3411 1523 3411 
+Q 1664 3411 1805 3395 
+Q 1946 3379 2067 3356 
+Q 2189 3334 2281 3308 
+Q 2374 3283 2426 3264 
+L 2317 2752 
+Q 2221 2803 2016 2857 
+Q 1811 2912 1523 2912 
+Q 1274 2912 1088 2813 
+Q 902 2714 902 2502 
+Q 902 2394 944 2310 
+Q 986 2227 1072 2160 
+Q 1158 2093 1286 2035 
+Q 1414 1978 1594 1914 
+Q 1830 1824 2016 1737 
+Q 2202 1651 2333 1536 
+Q 2464 1421 2534 1257 
+Q 2605 1094 2605 858 
+Q 2605 397 2262 160 
+Q 1920 -77 1286 -77 
+Q 845 -77 595 -3 
+Q 346 70 256 109 
+L 365 621 
+Q 467 582 691 505 
+Q 915 429 1286 429 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-69" d="M 1107 0 
+L 512 0 
+L 512 3328 
+L 1107 3328 
+L 1107 0 
+z
+M 806 3930 
+Q 646 3930 534 4035 
+Q 422 4141 422 4320 
+Q 422 4499 534 4604 
+Q 646 4710 806 4710 
+Q 966 4710 1078 4604 
+Q 1190 4499 1190 4320 
+Q 1190 4141 1078 4035 
+Q 966 3930 806 3930 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-62" d="M 1107 3181 
+Q 1216 3251 1437 3328 
+Q 1658 3405 1946 3405 
+Q 2304 3405 2582 3277 
+Q 2861 3149 3053 2918 
+Q 3245 2688 3344 2368 
+Q 3443 2048 3443 1664 
+Q 3443 1261 3324 937 
+Q 3206 614 2988 390 
+Q 2771 166 2464 44 
+Q 2157 -77 1773 -77 
+Q 1357 -77 1037 -19 
+Q 717 38 512 96 
+L 512 4864 
+L 1107 4966 
+L 1107 3181 
+z
+M 1107 518 
+Q 1197 493 1360 470 
+Q 1523 448 1766 448 
+Q 2246 448 2534 765 
+Q 2822 1082 2822 1664 
+Q 2822 1920 2771 2144 
+Q 2720 2368 2605 2531 
+Q 2490 2694 2307 2787 
+Q 2125 2880 1869 2880 
+Q 1626 2880 1421 2797 
+Q 1216 2714 1107 2624 
+L 1107 518 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-71" d="M 947 1658 
+Q 947 1402 998 1181 
+Q 1050 960 1165 797 
+Q 1280 634 1462 541 
+Q 1645 448 1901 448 
+Q 2144 448 2349 531 
+Q 2554 614 2662 704 
+L 2662 2803 
+Q 2573 2829 2422 2848 
+Q 2272 2867 2003 2867 
+Q 1523 2867 1235 2553 
+Q 947 2240 947 1658 
+z
+M 326 1658 
+Q 326 2061 444 2384 
+Q 563 2707 780 2931 
+Q 998 3155 1305 3276 
+Q 1613 3398 1997 3398 
+Q 2413 3398 2729 3337 
+Q 3046 3277 3258 3226 
+L 3258 -1184 
+L 2662 -1184 
+L 2662 147 
+Q 2554 77 2333 0 
+Q 2112 -77 1824 -77 
+Q 1466 -77 1187 51 
+Q 909 179 717 409 
+Q 525 640 425 960 
+Q 326 1280 326 1658 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Ubuntu-75"/>
+      <use xlink:href="#Ubuntu-6e" x="57.399994"/>
+      <use xlink:href="#Ubuntu-73" x="114.799988"/>
+      <use xlink:href="#Ubuntu-75" x="159.399979"/>
+      <use xlink:href="#Ubuntu-73" x="216.799973"/>
+      <use xlink:href="#Ubuntu-74" x="261.399963"/>
+      <use xlink:href="#Ubuntu-61" x="301.59996"/>
+      <use xlink:href="#Ubuntu-69" x="353.799957"/>
+      <use xlink:href="#Ubuntu-6e" x="379.099945"/>
+      <use xlink:href="#Ubuntu-61" x="436.499939"/>
+      <use xlink:href="#Ubuntu-62" x="488.699936"/>
+      <use xlink:href="#Ubuntu-6c" x="547.59993"/>
+      <use xlink:href="#Ubuntu-65" x="574.899918"/>
+      <use xlink:href="#Ubuntu-20" x="630.799911"/>
+      <use xlink:href="#Ubuntu-62" x="653.899902"/>
+      <use xlink:href="#Ubuntu-69" x="712.799896"/>
+      <use xlink:href="#Ubuntu-6f" x="738.099884"/>
+      <use xlink:href="#Ubuntu-6c" x="797.099869"/>
+      <use xlink:href="#Ubuntu-69" x="824.399857"/>
+      <use xlink:href="#Ubuntu-71" x="849.699844"/>
+      <use xlink:href="#Ubuntu-75" x="908.599838"/>
+      <use xlink:href="#Ubuntu-69" x="965.999832"/>
+      <use xlink:href="#Ubuntu-64" x="991.29982"/>
+      <use xlink:href="#Ubuntu-73" x="1050.199814"/>
+     </g>
+    </g>
+    <g id="patch_184">
+     <path d="M 686.542187 38.56875 
+L 706.542187 38.56875 
+L 706.542187 31.56875 
+L 686.542187 31.56875 
+z
+" style="fill: #47411c"/>
+    </g>
+    <g id="text_16">
+     <!-- solid biomass for industry CC -->
+     <g transform="translate(714.542187 38.56875) scale(0.1 -0.1)">
+      <defs>
+       <path id="Ubuntu-66" d="M 1811 4966 
+Q 2074 4966 2262 4928 
+Q 2451 4890 2528 4858 
+L 2419 4346 
+Q 2342 4384 2201 4419 
+Q 2061 4454 1856 4454 
+Q 1440 4454 1273 4227 
+Q 1107 4000 1107 3616 
+L 1107 3328 
+L 2387 3328 
+L 2387 2829 
+L 1107 2829 
+L 1107 0 
+L 512 0 
+L 512 3629 
+Q 512 4269 825 4617 
+Q 1139 4966 1811 4966 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-72" d="M 1741 3398 
+Q 1818 3398 1917 3388 
+Q 2016 3379 2112 3363 
+Q 2208 3347 2288 3331 
+Q 2368 3315 2406 3302 
+L 2304 2784 
+Q 2234 2810 2070 2845 
+Q 1907 2880 1651 2880 
+Q 1485 2880 1321 2845 
+Q 1158 2810 1107 2797 
+L 1107 0 
+L 512 0 
+L 512 3187 
+Q 723 3264 1036 3331 
+Q 1350 3398 1741 3398 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-79" d="M 122 -621 
+Q 192 -653 304 -681 
+Q 416 -710 525 -710 
+Q 877 -710 1075 -553 
+Q 1274 -397 1434 -45 
+Q 1030 723 681 1584 
+Q 333 2445 102 3328 
+L 742 3328 
+Q 813 3040 912 2707 
+Q 1011 2374 1132 2022 
+Q 1254 1670 1395 1318 
+Q 1536 966 1690 640 
+Q 1933 1312 2112 1971 
+Q 2291 2630 2451 3328 
+L 3066 3328 
+Q 2835 2387 2553 1520 
+Q 2272 653 1946 -102 
+Q 1818 -390 1680 -598 
+Q 1542 -806 1376 -940 
+Q 1210 -1075 1002 -1139 
+Q 794 -1203 531 -1203 
+Q 461 -1203 384 -1193 
+Q 307 -1184 233 -1168 
+Q 160 -1152 99 -1133 
+Q 38 -1114 13 -1101 
+L 122 -621 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Ubuntu-73"/>
+      <use xlink:href="#Ubuntu-6f" x="44.599991"/>
+      <use xlink:href="#Ubuntu-6c" x="103.599976"/>
+      <use xlink:href="#Ubuntu-69" x="130.899963"/>
+      <use xlink:href="#Ubuntu-64" x="156.199951"/>
+      <use xlink:href="#Ubuntu-20" x="215.099945"/>
+      <use xlink:href="#Ubuntu-62" x="238.199936"/>
+      <use xlink:href="#Ubuntu-69" x="297.09993"/>
+      <use xlink:href="#Ubuntu-6f" x="322.399918"/>
+      <use xlink:href="#Ubuntu-6d" x="381.399902"/>
+      <use xlink:href="#Ubuntu-61" x="467.499893"/>
+      <use xlink:href="#Ubuntu-73" x="519.69989"/>
+      <use xlink:href="#Ubuntu-73" x="564.299881"/>
+      <use xlink:href="#Ubuntu-20" x="608.899872"/>
+      <use xlink:href="#Ubuntu-66" x="631.999863"/>
+      <use xlink:href="#Ubuntu-6f" x="670.599854"/>
+      <use xlink:href="#Ubuntu-72" x="729.599838"/>
+      <use xlink:href="#Ubuntu-20" x="768.199829"/>
+      <use xlink:href="#Ubuntu-69" x="791.29982"/>
+      <use xlink:href="#Ubuntu-6e" x="816.599808"/>
+      <use xlink:href="#Ubuntu-64" x="873.999802"/>
+      <use xlink:href="#Ubuntu-75" x="932.899796"/>
+      <use xlink:href="#Ubuntu-73" x="990.299789"/>
+      <use xlink:href="#Ubuntu-74" x="1034.89978"/>
+      <use xlink:href="#Ubuntu-72" x="1075.099777"/>
+      <use xlink:href="#Ubuntu-79" x="1115.824768"/>
+      <use xlink:href="#Ubuntu-20" x="1165.524765"/>
+      <use xlink:href="#Ubuntu-43" x="1188.624756"/>
+      <use xlink:href="#Ubuntu-43" x="1248.624741"/>
+     </g>
+    </g>
+    <g id="patch_185">
+     <path d="M 686.542187 53.207813 
+L 706.542187 53.207813 
+L 706.542187 46.207813 
+L 686.542187 46.207813 
+z
+" style="fill: #808080"/>
+    </g>
+    <g id="text_17">
+     <!-- shipping oil -->
+     <g transform="translate(714.542187 53.207813) scale(0.1 -0.1)">
+      <defs>
+       <path id="Ubuntu-68" d="M 512 0 
+L 512 4864 
+L 1107 4966 
+L 1107 3264 
+Q 1274 3328 1462 3363 
+Q 1651 3398 1837 3398 
+Q 2234 3398 2496 3286 
+Q 2758 3174 2915 2972 
+Q 3072 2771 3136 2489 
+Q 3200 2208 3200 1869 
+L 3200 0 
+L 2605 0 
+L 2605 1741 
+Q 2605 2048 2563 2265 
+Q 2522 2483 2426 2617 
+Q 2330 2752 2170 2813 
+Q 2010 2874 1773 2874 
+Q 1677 2874 1574 2861 
+Q 1472 2848 1379 2832 
+Q 1286 2816 1212 2797 
+Q 1139 2778 1107 2765 
+L 1107 0 
+L 512 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-67" d="M 2598 333 
+Q 2522 282 2301 202 
+Q 2080 122 1786 122 
+Q 1485 122 1219 218 
+Q 954 314 755 515 
+Q 557 717 441 1017 
+Q 326 1318 326 1734 
+Q 326 2099 435 2403 
+Q 544 2707 752 2928 
+Q 960 3149 1261 3273 
+Q 1562 3398 1939 3398 
+Q 2355 3398 2665 3337 
+Q 2976 3277 3187 3226 
+L 3187 256 
+Q 3187 -512 2790 -857 
+Q 2394 -1203 1587 -1203 
+Q 1274 -1203 995 -1152 
+Q 717 -1101 512 -1030 
+L 621 -512 
+Q 800 -582 1059 -636 
+Q 1318 -691 1600 -691 
+Q 2131 -691 2364 -480 
+Q 2598 -269 2598 192 
+L 2598 333 
+z
+M 2592 2803 
+Q 2502 2829 2352 2851 
+Q 2202 2874 1946 2874 
+Q 1466 2874 1206 2560 
+Q 947 2246 947 1728 
+Q 947 1440 1020 1235 
+Q 1094 1030 1219 896 
+Q 1344 762 1507 698 
+Q 1670 634 1843 634 
+Q 2080 634 2278 701 
+Q 2477 768 2592 858 
+L 2592 2803 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Ubuntu-73"/>
+      <use xlink:href="#Ubuntu-68" x="44.599991"/>
+      <use xlink:href="#Ubuntu-69" x="101.699982"/>
+      <use xlink:href="#Ubuntu-70" x="126.999969"/>
+      <use xlink:href="#Ubuntu-70" x="185.899963"/>
+      <use xlink:href="#Ubuntu-69" x="244.799957"/>
+      <use xlink:href="#Ubuntu-6e" x="270.099945"/>
+      <use xlink:href="#Ubuntu-67" x="327.499939"/>
+      <use xlink:href="#Ubuntu-20" x="385.299927"/>
+      <use xlink:href="#Ubuntu-6f" x="408.399918"/>
+      <use xlink:href="#Ubuntu-69" x="467.399902"/>
+      <use xlink:href="#Ubuntu-6c" x="492.69989"/>
+     </g>
+    </g>
+    <g id="patch_186">
+     <path d="M 686.542187 67.846875 
+L 706.542187 67.846875 
+L 706.542187 60.846875 
+L 686.542187 60.846875 
+z
+" style="fill: #468c8b"/>
+    </g>
+    <g id="text_18">
+     <!-- shipping methanol -->
+     <g transform="translate(714.542187 67.846875) scale(0.1 -0.1)">
+      <use xlink:href="#Ubuntu-73"/>
+      <use xlink:href="#Ubuntu-68" x="44.599991"/>
+      <use xlink:href="#Ubuntu-69" x="101.699982"/>
+      <use xlink:href="#Ubuntu-70" x="126.999969"/>
+      <use xlink:href="#Ubuntu-70" x="185.899963"/>
+      <use xlink:href="#Ubuntu-69" x="244.799957"/>
+      <use xlink:href="#Ubuntu-6e" x="270.099945"/>
+      <use xlink:href="#Ubuntu-67" x="327.499939"/>
+      <use xlink:href="#Ubuntu-20" x="385.299927"/>
+      <use xlink:href="#Ubuntu-6d" x="408.399918"/>
+      <use xlink:href="#Ubuntu-65" x="494.499908"/>
+      <use xlink:href="#Ubuntu-74" x="550.399902"/>
+      <use xlink:href="#Ubuntu-68" x="590.599899"/>
+      <use xlink:href="#Ubuntu-61" x="647.69989"/>
+      <use xlink:href="#Ubuntu-6e" x="699.899887"/>
+      <use xlink:href="#Ubuntu-6f" x="757.299881"/>
+      <use xlink:href="#Ubuntu-6c" x="816.299866"/>
+     </g>
+    </g>
+    <g id="patch_187">
+     <path d="M 686.542187 82.485938 
+L 706.542187 82.485938 
+L 706.542187 75.485938 
+L 686.542187 75.485938 
+z
+"/>
+    </g>
+    <g id="text_19">
+     <!-- process emissions CC -->
+     <g transform="translate(714.542187 82.485938) scale(0.1 -0.1)">
+      <defs>
+       <path id="Ubuntu-63" d="M 1958 -77 
+Q 1555 -77 1251 51 
+Q 947 179 739 409 
+Q 531 640 428 957 
+Q 326 1274 326 1658 
+Q 326 2042 438 2362 
+Q 550 2682 755 2915 
+Q 960 3149 1257 3280 
+Q 1555 3411 1920 3411 
+Q 2144 3411 2368 3372 
+Q 2592 3334 2797 3251 
+L 2662 2746 
+Q 2528 2810 2352 2848 
+Q 2176 2886 1978 2886 
+Q 1478 2886 1212 2572 
+Q 947 2259 947 1658 
+Q 947 1389 1008 1165 
+Q 1069 941 1200 781 
+Q 1331 621 1536 534 
+Q 1741 448 2035 448 
+Q 2272 448 2464 493 
+Q 2656 538 2765 589 
+L 2848 90 
+Q 2797 58 2701 29 
+Q 2605 0 2483 -22 
+Q 2362 -45 2224 -61 
+Q 2086 -77 1958 -77 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Ubuntu-70"/>
+      <use xlink:href="#Ubuntu-72" x="58.899994"/>
+      <use xlink:href="#Ubuntu-6f" x="97.499985"/>
+      <use xlink:href="#Ubuntu-63" x="156.499969"/>
+      <use xlink:href="#Ubuntu-65" x="202.999954"/>
+      <use xlink:href="#Ubuntu-73" x="258.899948"/>
+      <use xlink:href="#Ubuntu-73" x="303.499939"/>
+      <use xlink:href="#Ubuntu-20" x="348.09993"/>
+      <use xlink:href="#Ubuntu-65" x="371.199921"/>
+      <use xlink:href="#Ubuntu-6d" x="427.099915"/>
+      <use xlink:href="#Ubuntu-69" x="513.199905"/>
+      <use xlink:href="#Ubuntu-73" x="538.499893"/>
+      <use xlink:href="#Ubuntu-73" x="583.099884"/>
+      <use xlink:href="#Ubuntu-69" x="627.699875"/>
+      <use xlink:href="#Ubuntu-6f" x="652.999863"/>
+      <use xlink:href="#Ubuntu-6e" x="711.999847"/>
+      <use xlink:href="#Ubuntu-73" x="769.399841"/>
+      <use xlink:href="#Ubuntu-20" x="813.999832"/>
+      <use xlink:href="#Ubuntu-43" x="837.099823"/>
+      <use xlink:href="#Ubuntu-43" x="897.099808"/>
+     </g>
+    </g>
+    <g id="patch_188">
+     <path d="M 686.542187 97.095313 
+L 706.542187 97.095313 
+L 706.542187 90.095313 
+L 686.542187 90.095313 
+z
+" style="fill: #222222"/>
+    </g>
+    <g id="text_20">
+     <!-- process emissions -->
+     <g transform="translate(714.542187 97.095313) scale(0.1 -0.1)">
+      <use xlink:href="#Ubuntu-70"/>
+      <use xlink:href="#Ubuntu-72" x="58.899994"/>
+      <use xlink:href="#Ubuntu-6f" x="97.499985"/>
+      <use xlink:href="#Ubuntu-63" x="156.499969"/>
+      <use xlink:href="#Ubuntu-65" x="202.999954"/>
+      <use xlink:href="#Ubuntu-73" x="258.899948"/>
+      <use xlink:href="#Ubuntu-73" x="303.499939"/>
+      <use xlink:href="#Ubuntu-20" x="348.09993"/>
+      <use xlink:href="#Ubuntu-65" x="371.199921"/>
+      <use xlink:href="#Ubuntu-6d" x="427.099915"/>
+      <use xlink:href="#Ubuntu-69" x="513.199905"/>
+      <use xlink:href="#Ubuntu-73" x="538.499893"/>
+      <use xlink:href="#Ubuntu-73" x="583.099884"/>
+      <use xlink:href="#Ubuntu-69" x="627.699875"/>
+      <use xlink:href="#Ubuntu-6f" x="652.999863"/>
+      <use xlink:href="#Ubuntu-6e" x="711.999847"/>
+      <use xlink:href="#Ubuntu-73" x="769.399841"/>
+     </g>
+    </g>
+    <g id="patch_189">
+     <path d="M 686.542187 111.704688 
+L 706.542187 111.704688 
+L 706.542187 104.704688 
+L 686.542187 104.704688 
+z
+" style="fill: #e6e6e6"/>
+    </g>
+    <g id="text_21">
+     <!-- oil refining -->
+     <g transform="translate(714.542187 111.704688) scale(0.1 -0.1)">
+      <use xlink:href="#Ubuntu-6f"/>
+      <use xlink:href="#Ubuntu-69" x="58.999985"/>
+      <use xlink:href="#Ubuntu-6c" x="84.299973"/>
+      <use xlink:href="#Ubuntu-20" x="111.59996"/>
+      <use xlink:href="#Ubuntu-72" x="134.699951"/>
+      <use xlink:href="#Ubuntu-65" x="173.299942"/>
+      <use xlink:href="#Ubuntu-66" x="229.199936"/>
+      <use xlink:href="#Ubuntu-69" x="267.799927"/>
+      <use xlink:href="#Ubuntu-6e" x="293.099915"/>
+      <use xlink:href="#Ubuntu-69" x="350.499908"/>
+      <use xlink:href="#Ubuntu-6e" x="375.799896"/>
+      <use xlink:href="#Ubuntu-67" x="433.19989"/>
+     </g>
+    </g>
+    <g id="patch_190">
+     <path d="M 686.542187 126.34375 
+L 706.542187 126.34375 
+L 706.542187 119.34375 
+L 686.542187 119.34375 
+z
+" style="fill: #adadad"/>
+    </g>
+    <g id="text_22">
+     <!-- oil boiler -->
+     <g transform="translate(714.542187 126.34375) scale(0.1 -0.1)">
+      <use xlink:href="#Ubuntu-6f"/>
+      <use xlink:href="#Ubuntu-69" x="58.999985"/>
+      <use xlink:href="#Ubuntu-6c" x="84.299973"/>
+      <use xlink:href="#Ubuntu-20" x="111.59996"/>
+      <use xlink:href="#Ubuntu-62" x="134.699951"/>
+      <use xlink:href="#Ubuntu-6f" x="193.599945"/>
+      <use xlink:href="#Ubuntu-69" x="252.59993"/>
+      <use xlink:href="#Ubuntu-6c" x="277.899918"/>
+      <use xlink:href="#Ubuntu-65" x="305.199905"/>
+      <use xlink:href="#Ubuntu-72" x="361.099899"/>
+     </g>
+    </g>
+    <g id="patch_191">
+     <path d="M 686.542187 140.953125 
+L 706.542187 140.953125 
+L 706.542187 133.953125 
+L 686.542187 133.953125 
+z
+" style="fill: #57ebc4"/>
+    </g>
+    <g id="text_23">
+     <!-- naphtha for industry -->
+     <g transform="translate(714.542187 140.953125) scale(0.1 -0.1)">
+      <use xlink:href="#Ubuntu-6e"/>
+      <use xlink:href="#Ubuntu-61" x="57.399994"/>
+      <use xlink:href="#Ubuntu-70" x="109.599991"/>
+      <use xlink:href="#Ubuntu-68" x="168.499985"/>
+      <use xlink:href="#Ubuntu-74" x="225.599976"/>
+      <use xlink:href="#Ubuntu-68" x="265.799973"/>
+      <use xlink:href="#Ubuntu-61" x="322.899963"/>
+      <use xlink:href="#Ubuntu-20" x="375.09996"/>
+      <use xlink:href="#Ubuntu-66" x="398.199951"/>
+      <use xlink:href="#Ubuntu-6f" x="436.799942"/>
+      <use xlink:href="#Ubuntu-72" x="495.799927"/>
+      <use xlink:href="#Ubuntu-20" x="534.399918"/>
+      <use xlink:href="#Ubuntu-69" x="557.499908"/>
+      <use xlink:href="#Ubuntu-6e" x="582.799896"/>
+      <use xlink:href="#Ubuntu-64" x="640.19989"/>
+      <use xlink:href="#Ubuntu-75" x="699.099884"/>
+      <use xlink:href="#Ubuntu-73" x="756.499878"/>
+      <use xlink:href="#Ubuntu-74" x="801.099869"/>
+      <use xlink:href="#Ubuntu-72" x="841.299866"/>
+      <use xlink:href="#Ubuntu-79" x="882.024857"/>
+     </g>
+    </g>
+    <g id="patch_192">
+     <path d="M 686.542187 155.592188 
+L 706.542187 155.592188 
+L 706.542187 148.592188 
+L 686.542187 148.592188 
+z
+" style="fill: #afafaf"/>
+    </g>
+    <g id="text_24">
+     <!-- land transport oil -->
+     <g transform="translate(714.542187 155.592188) scale(0.1 -0.1)">
+      <use xlink:href="#Ubuntu-6c"/>
+      <use xlink:href="#Ubuntu-61" x="27.299988"/>
+      <use xlink:href="#Ubuntu-6e" x="79.499985"/>
+      <use xlink:href="#Ubuntu-64" x="136.899979"/>
+      <use xlink:href="#Ubuntu-20" x="195.799973"/>
+      <use xlink:href="#Ubuntu-74" x="218.899963"/>
+      <use xlink:href="#Ubuntu-72" x="259.09996"/>
+      <use xlink:href="#Ubuntu-61" x="297.699951"/>
+      <use xlink:href="#Ubuntu-6e" x="349.899948"/>
+      <use xlink:href="#Ubuntu-73" x="407.299942"/>
+      <use xlink:href="#Ubuntu-70" x="451.899933"/>
+      <use xlink:href="#Ubuntu-6f" x="510.799927"/>
+      <use xlink:href="#Ubuntu-72" x="569.799911"/>
+      <use xlink:href="#Ubuntu-74" x="608.399902"/>
+      <use xlink:href="#Ubuntu-20" x="648.599899"/>
+      <use xlink:href="#Ubuntu-6f" x="671.69989"/>
+      <use xlink:href="#Ubuntu-69" x="730.699875"/>
+      <use xlink:href="#Ubuntu-6c" x="755.999863"/>
+     </g>
+    </g>
+    <g id="patch_193">
+     <path d="M 686.542187 170.201563 
+L 706.542187 170.201563 
+L 706.542187 163.201563 
+L 686.542187 163.201563 
+z
+" style="fill: #a1ffe6"/>
+    </g>
+    <g id="text_25">
+     <!-- kerosene for aviation -->
+     <g transform="translate(714.542187 170.201563) scale(0.1 -0.1)">
+      <defs>
+       <path id="Ubuntu-6b" d="M 1715 1830 
+Q 1907 1683 2121 1465 
+Q 2336 1248 2544 995 
+Q 2752 742 2937 483 
+Q 3123 224 3251 0 
+L 2554 0 
+Q 2419 224 2243 457 
+Q 2067 691 1875 905 
+Q 1683 1120 1484 1299 
+Q 1286 1478 1107 1600 
+L 1107 0 
+L 512 0 
+L 512 4864 
+L 1107 4966 
+L 1107 1933 
+Q 1261 2086 1446 2272 
+Q 1632 2458 1811 2650 
+Q 1990 2842 2150 3018 
+Q 2310 3194 2426 3328 
+L 3123 3328 
+Q 2976 3168 2803 2976 
+Q 2630 2784 2444 2589 
+Q 2259 2394 2070 2198 
+Q 1882 2003 1715 1830 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Ubuntu-6b"/>
+      <use xlink:href="#Ubuntu-65" x="49.574997"/>
+      <use xlink:href="#Ubuntu-72" x="105.474991"/>
+      <use xlink:href="#Ubuntu-6f" x="144.074982"/>
+      <use xlink:href="#Ubuntu-73" x="203.074966"/>
+      <use xlink:href="#Ubuntu-65" x="247.674957"/>
+      <use xlink:href="#Ubuntu-6e" x="303.574951"/>
+      <use xlink:href="#Ubuntu-65" x="360.974945"/>
+      <use xlink:href="#Ubuntu-20" x="416.874939"/>
+      <use xlink:href="#Ubuntu-66" x="439.97493"/>
+      <use xlink:href="#Ubuntu-6f" x="478.574921"/>
+      <use xlink:href="#Ubuntu-72" x="537.574905"/>
+      <use xlink:href="#Ubuntu-20" x="576.174896"/>
+      <use xlink:href="#Ubuntu-61" x="599.274887"/>
+      <use xlink:href="#Ubuntu-76" x="649.974884"/>
+      <use xlink:href="#Ubuntu-69" x="700.174881"/>
+      <use xlink:href="#Ubuntu-61" x="725.474869"/>
+      <use xlink:href="#Ubuntu-74" x="777.674866"/>
+      <use xlink:href="#Ubuntu-69" x="817.874863"/>
+      <use xlink:href="#Ubuntu-6f" x="843.17485"/>
+      <use xlink:href="#Ubuntu-6e" x="902.174835"/>
+     </g>
+    </g>
+    <g id="patch_194">
+     <path d="M 686.542187 184.810938 
+L 706.542187 184.810938 
+L 706.542187 177.810938 
+L 686.542187 177.810938 
+z
+" style="fill: #692e0a"/>
+    </g>
+    <g id="text_26">
+     <!-- gas for industry CC -->
+     <g transform="translate(714.542187 184.810938) scale(0.1 -0.1)">
+      <use xlink:href="#Ubuntu-67"/>
+      <use xlink:href="#Ubuntu-61" x="57.799988"/>
+      <use xlink:href="#Ubuntu-73" x="109.999985"/>
+      <use xlink:href="#Ubuntu-20" x="154.599976"/>
+      <use xlink:href="#Ubuntu-66" x="177.699966"/>
+      <use xlink:href="#Ubuntu-6f" x="216.299957"/>
+      <use xlink:href="#Ubuntu-72" x="275.299942"/>
+      <use xlink:href="#Ubuntu-20" x="313.899933"/>
+      <use xlink:href="#Ubuntu-69" x="336.999924"/>
+      <use xlink:href="#Ubuntu-6e" x="362.299911"/>
+      <use xlink:href="#Ubuntu-64" x="419.699905"/>
+      <use xlink:href="#Ubuntu-75" x="478.599899"/>
+      <use xlink:href="#Ubuntu-73" x="535.999893"/>
+      <use xlink:href="#Ubuntu-74" x="580.599884"/>
+      <use xlink:href="#Ubuntu-72" x="620.799881"/>
+      <use xlink:href="#Ubuntu-79" x="661.524872"/>
+      <use xlink:href="#Ubuntu-20" x="711.224869"/>
+      <use xlink:href="#Ubuntu-43" x="734.32486"/>
+      <use xlink:href="#Ubuntu-43" x="794.324844"/>
+     </g>
+    </g>
+    <g id="patch_195">
+     <path d="M 686.542187 199.45 
+L 706.542187 199.45 
+L 706.542187 192.45 
+L 686.542187 192.45 
+z
+" style="fill: #853403"/>
+    </g>
+    <g id="text_27">
+     <!-- gas for industry -->
+     <g transform="translate(714.542187 199.45) scale(0.1 -0.1)">
+      <use xlink:href="#Ubuntu-67"/>
+      <use xlink:href="#Ubuntu-61" x="57.799988"/>
+      <use xlink:href="#Ubuntu-73" x="109.999985"/>
+      <use xlink:href="#Ubuntu-20" x="154.599976"/>
+      <use xlink:href="#Ubuntu-66" x="177.699966"/>
+      <use xlink:href="#Ubuntu-6f" x="216.299957"/>
+      <use xlink:href="#Ubuntu-72" x="275.299942"/>
+      <use xlink:href="#Ubuntu-20" x="313.899933"/>
+      <use xlink:href="#Ubuntu-69" x="336.999924"/>
+      <use xlink:href="#Ubuntu-6e" x="362.299911"/>
+      <use xlink:href="#Ubuntu-64" x="419.699905"/>
+      <use xlink:href="#Ubuntu-75" x="478.599899"/>
+      <use xlink:href="#Ubuntu-73" x="535.999893"/>
+      <use xlink:href="#Ubuntu-74" x="580.599884"/>
+      <use xlink:href="#Ubuntu-72" x="620.799881"/>
+      <use xlink:href="#Ubuntu-79" x="661.524872"/>
+     </g>
+    </g>
+    <g id="patch_196">
+     <path d="M 686.542187 214.089063 
+L 706.542187 214.089063 
+L 706.542187 207.089063 
+L 686.542187 207.089063 
+z
+" style="fill: #343434"/>
+    </g>
+    <g id="text_28">
+     <!-- coal for industry -->
+     <g transform="translate(714.542187 214.089063) scale(0.1 -0.1)">
+      <use xlink:href="#Ubuntu-63"/>
+      <use xlink:href="#Ubuntu-6f" x="45.249985"/>
+      <use xlink:href="#Ubuntu-61" x="104.249969"/>
+      <use xlink:href="#Ubuntu-6c" x="156.449966"/>
+      <use xlink:href="#Ubuntu-20" x="183.749954"/>
+      <use xlink:href="#Ubuntu-66" x="206.849945"/>
+      <use xlink:href="#Ubuntu-6f" x="245.449936"/>
+      <use xlink:href="#Ubuntu-72" x="304.449921"/>
+      <use xlink:href="#Ubuntu-20" x="343.049911"/>
+      <use xlink:href="#Ubuntu-69" x="366.149902"/>
+      <use xlink:href="#Ubuntu-6e" x="391.44989"/>
+      <use xlink:href="#Ubuntu-64" x="448.849884"/>
+      <use xlink:href="#Ubuntu-75" x="507.749878"/>
+      <use xlink:href="#Ubuntu-73" x="565.149872"/>
+      <use xlink:href="#Ubuntu-74" x="609.749863"/>
+      <use xlink:href="#Ubuntu-72" x="649.94986"/>
+      <use xlink:href="#Ubuntu-79" x="690.67485"/>
+     </g>
+    </g>
+    <g id="patch_197">
+     <path d="M 686.542187 228.728125 
+L 706.542187 228.728125 
+L 706.542187 221.728125 
+L 686.542187 221.728125 
+z
+" style="fill: #f29dae"/>
+    </g>
+    <g id="text_29">
+     <!-- co2 -->
+     <g transform="translate(714.542187 228.728125) scale(0.1 -0.1)">
+      <use xlink:href="#Ubuntu-63"/>
+      <use xlink:href="#Ubuntu-6f" x="45.249985"/>
+      <use xlink:href="#Ubuntu-32" x="104.249969"/>
+     </g>
+    </g>
+    <g id="patch_198">
+     <path d="M 686.542187 243.3375 
+L 706.542187 243.3375 
+L 706.542187 236.3375 
+L 686.542187 236.3375 
+z
+" style="fill: #949494"/>
+    </g>
+    <g id="text_30">
+     <!-- agriculture machinery oil -->
+     <g transform="translate(714.542187 243.3375) scale(0.1 -0.1)">
+      <use xlink:href="#Ubuntu-61"/>
+      <use xlink:href="#Ubuntu-67" x="52.199997"/>
+      <use xlink:href="#Ubuntu-72" x="109.999985"/>
+      <use xlink:href="#Ubuntu-69" x="148.599976"/>
+      <use xlink:href="#Ubuntu-63" x="173.899963"/>
+      <use xlink:href="#Ubuntu-75" x="220.399948"/>
+      <use xlink:href="#Ubuntu-6c" x="277.799942"/>
+      <use xlink:href="#Ubuntu-74" x="305.09993"/>
+      <use xlink:href="#Ubuntu-75" x="345.299927"/>
+      <use xlink:href="#Ubuntu-72" x="402.699921"/>
+      <use xlink:href="#Ubuntu-65" x="441.299911"/>
+      <use xlink:href="#Ubuntu-20" x="497.199905"/>
+      <use xlink:href="#Ubuntu-6d" x="520.299896"/>
+      <use xlink:href="#Ubuntu-61" x="606.399887"/>
+      <use xlink:href="#Ubuntu-63" x="658.599884"/>
+      <use xlink:href="#Ubuntu-68" x="705.099869"/>
+      <use xlink:href="#Ubuntu-69" x="762.19986"/>
+      <use xlink:href="#Ubuntu-6e" x="787.499847"/>
+      <use xlink:href="#Ubuntu-65" x="844.899841"/>
+      <use xlink:href="#Ubuntu-72" x="900.799835"/>
+      <use xlink:href="#Ubuntu-79" x="941.524826"/>
+      <use xlink:href="#Ubuntu-20" x="991.224823"/>
+      <use xlink:href="#Ubuntu-6f" x="1014.324814"/>
+      <use xlink:href="#Ubuntu-69" x="1073.324799"/>
+      <use xlink:href="#Ubuntu-6c" x="1098.624786"/>
+     </g>
+    </g>
+    <g id="patch_199">
+     <path d="M 686.542187 257.976562 
+L 706.542187 257.976562 
+L 706.542187 250.976562 
+L 686.542187 250.976562 
+z
+" style="fill: #4f1745"/>
+    </g>
+    <g id="text_31">
+     <!-- SMR CC -->
+     <g transform="translate(714.542187 257.976562) scale(0.1 -0.1)">
+      <defs>
+       <path id="Ubuntu-53" d="M 1581 442 
+Q 2554 442 2554 1107 
+Q 2554 1312 2467 1456 
+Q 2381 1600 2233 1705 
+Q 2086 1811 1897 1888 
+Q 1709 1965 1498 2042 
+Q 1254 2125 1036 2230 
+Q 819 2336 659 2480 
+Q 499 2624 406 2822 
+Q 314 3021 314 3302 
+Q 314 3885 710 4211 
+Q 1107 4538 1805 4538 
+Q 2208 4538 2537 4451 
+Q 2867 4365 3021 4262 
+L 2822 3757 
+Q 2688 3840 2422 3920 
+Q 2157 4000 1805 4000 
+Q 1626 4000 1472 3961 
+Q 1318 3923 1203 3846 
+Q 1088 3770 1021 3651 
+Q 954 3533 954 3373 
+Q 954 3194 1024 3072 
+Q 1094 2950 1222 2857 
+Q 1350 2765 1520 2688 
+Q 1690 2611 1894 2534 
+Q 2182 2419 2422 2304 
+Q 2662 2189 2838 2029 
+Q 3014 1869 3110 1648 
+Q 3206 1427 3206 1114 
+Q 3206 531 2780 217 
+Q 2355 -96 1581 -96 
+Q 1318 -96 1097 -61 
+Q 877 -26 704 22 
+Q 531 70 406 124 
+Q 282 179 211 218 
+L 397 730 
+Q 544 646 845 544 
+Q 1146 442 1581 442 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-52" d="M 2720 1856 
+Q 2822 1728 2979 1520 
+Q 3136 1312 3302 1059 
+Q 3469 806 3632 531 
+Q 3795 256 3910 0 
+L 3232 0 
+Q 3104 243 2953 492 
+Q 2803 742 2649 969 
+Q 2496 1197 2345 1395 
+Q 2195 1594 2074 1741 
+Q 1990 1734 1904 1734 
+Q 1818 1734 1728 1734 
+L 1171 1734 
+L 1171 0 
+L 550 0 
+L 550 4371 
+Q 813 4435 1136 4457 
+Q 1459 4480 1728 4480 
+Q 2662 4480 3152 4128 
+Q 3642 3776 3642 3078 
+Q 3642 2637 3408 2323 
+Q 3174 2010 2720 1856 
+z
+M 1779 3936 
+Q 1382 3936 1171 3917 
+L 1171 2246 
+L 1613 2246 
+Q 1933 2246 2189 2278 
+Q 2445 2310 2621 2400 
+Q 2797 2490 2893 2653 
+Q 2989 2816 2989 3085 
+Q 2989 3334 2893 3500 
+Q 2797 3667 2633 3763 
+Q 2470 3859 2249 3897 
+Q 2029 3936 1779 3936 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Ubuntu-53"/>
+      <use xlink:href="#Ubuntu-4d" x="53.199997"/>
+      <use xlink:href="#Ubuntu-52" x="140.299988"/>
+      <use xlink:href="#Ubuntu-20" x="203.199982"/>
+      <use xlink:href="#Ubuntu-43" x="226.299973"/>
+      <use xlink:href="#Ubuntu-43" x="286.299957"/>
+     </g>
+    </g>
+    <g id="patch_200">
+     <path d="M 686.542187 272.585938 
+L 706.542187 272.585938 
+L 706.542187 265.585938 
+L 686.542187 265.585938 
+z
+" style="fill: #ff5270"/>
+    </g>
+    <g id="text_32">
+     <!-- DAC -->
+     <g transform="translate(714.542187 272.585938) scale(0.1 -0.1)">
+      <defs>
+       <path id="Ubuntu-44" d="M 4192 2221 
+Q 4192 1645 4013 1219 
+Q 3834 794 3507 515 
+Q 3181 237 2726 99 
+Q 2272 -38 1728 -38 
+Q 1459 -38 1136 -16 
+Q 813 6 550 70 
+L 550 4371 
+Q 813 4435 1136 4457 
+Q 1459 4480 1728 4480 
+Q 2272 4480 2726 4342 
+Q 3181 4205 3507 3926 
+Q 3834 3648 4013 3222 
+Q 4192 2797 4192 2221 
+z
+M 1779 506 
+Q 2662 506 3097 957 
+Q 3533 1408 3533 2221 
+Q 3533 3034 3097 3485 
+Q 2662 3936 1779 3936 
+Q 1517 3936 1373 3929 
+Q 1229 3923 1171 3917 
+L 1171 525 
+Q 1229 518 1373 512 
+Q 1517 506 1779 506 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-41" d="M 3514 0 
+Q 3405 288 3309 566 
+Q 3213 845 3110 1133 
+L 1101 1133 
+L 698 0 
+L 51 0 
+Q 307 704 531 1302 
+Q 755 1901 969 2438 
+Q 1184 2976 1395 3465 
+Q 1606 3955 1837 4435 
+L 2406 4435 
+Q 2637 3955 2848 3465 
+Q 3059 2976 3273 2438 
+Q 3488 1901 3712 1302 
+Q 3936 704 4192 0 
+L 3514 0 
+z
+M 2931 1645 
+Q 2726 2202 2524 2723 
+Q 2323 3245 2106 3725 
+Q 1882 3245 1680 2723 
+Q 1478 2202 1280 1645 
+L 2931 1645 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Ubuntu-44"/>
+      <use xlink:href="#Ubuntu-41" x="69.424988"/>
+      <use xlink:href="#Ubuntu-43" x="133.849976"/>
+     </g>
+    </g>
+    <g id="patch_201">
+     <path d="M 686.542187 287.195312 
+L 706.542187 287.195312 
+L 706.542187 280.195312 
+L 686.542187 280.195312 
+z
+" style="fill: #a85522"/>
+    </g>
+    <g id="text_33">
+     <!-- CCGT -->
+     <g transform="translate(714.542187 287.195312) scale(0.1 -0.1)">
+      <defs>
+       <path id="Ubuntu-47" d="M 3258 2182 
+L 3878 2182 
+L 3878 109 
+Q 3802 83 3658 51 
+Q 3514 19 3325 -13 
+Q 3136 -45 2912 -67 
+Q 2688 -90 2458 -90 
+Q 1990 -90 1606 64 
+Q 1222 218 947 512 
+Q 672 806 521 1235 
+Q 371 1664 371 2221 
+Q 371 2778 540 3210 
+Q 710 3642 998 3936 
+Q 1286 4230 1673 4384 
+Q 2061 4538 2502 4538 
+Q 2803 4538 3036 4499 
+Q 3270 4461 3436 4409 
+Q 3603 4358 3708 4307 
+Q 3814 4256 3853 4230 
+L 3654 3712 
+Q 3469 3834 3161 3914 
+Q 2854 3994 2534 3994 
+Q 2195 3994 1916 3872 
+Q 1638 3750 1443 3520 
+Q 1248 3290 1139 2960 
+Q 1030 2630 1030 2221 
+Q 1030 1824 1123 1497 
+Q 1216 1171 1405 937 
+Q 1594 704 1872 576 
+Q 2150 448 2528 448 
+Q 2797 448 2985 477 
+Q 3174 506 3258 531 
+L 3258 2182 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-54" d="M 3514 4435 
+L 3514 3898 
+L 2118 3898 
+L 2118 0 
+L 1498 0 
+L 1498 3898 
+L 102 3898 
+L 102 4435 
+L 3514 4435 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Ubuntu-43"/>
+      <use xlink:href="#Ubuntu-43" x="59.999985"/>
+      <use xlink:href="#Ubuntu-47" x="119.999969"/>
+      <use xlink:href="#Ubuntu-54" x="187.199966"/>
+     </g>
+    </g>
+    <g id="patch_202">
+     <path d="M 686.542187 301.804688 
+L 706.542187 301.804688 
+L 706.542187 294.804688 
+L 686.542187 294.804688 
+z
+" style="fill: #db6a25"/>
+    </g>
+    <g id="text_34">
+     <!-- gas boiler -->
+     <g transform="translate(714.542187 301.804688) scale(0.1 -0.1)">
+      <use xlink:href="#Ubuntu-67"/>
+      <use xlink:href="#Ubuntu-61" x="57.799988"/>
+      <use xlink:href="#Ubuntu-73" x="109.999985"/>
+      <use xlink:href="#Ubuntu-20" x="154.599976"/>
+      <use xlink:href="#Ubuntu-62" x="177.699966"/>
+      <use xlink:href="#Ubuntu-6f" x="236.59996"/>
+      <use xlink:href="#Ubuntu-69" x="295.599945"/>
+      <use xlink:href="#Ubuntu-6c" x="320.899933"/>
+      <use xlink:href="#Ubuntu-65" x="348.199921"/>
+      <use xlink:href="#Ubuntu-72" x="404.099915"/>
+     </g>
+    </g>
+    <g id="patch_203">
+     <path d="M 686.542187 316.44375 
+L 706.542187 316.44375 
+L 706.542187 309.44375 
+L 686.542187 309.44375 
+z
+" style="fill: #8a5751"/>
+    </g>
+    <g id="text_35">
+     <!-- CHP -->
+     <g transform="translate(714.542187 316.44375) scale(0.1 -0.1)">
+      <defs>
+       <path id="Ubuntu-48" d="M 3341 4435 
+L 3962 4435 
+L 3962 0 
+L 3341 0 
+L 3341 2048 
+L 1171 2048 
+L 1171 0 
+L 550 0 
+L 550 4435 
+L 1171 4435 
+L 1171 2586 
+L 3341 2586 
+L 3341 4435 
+z
+" transform="scale(0.015625)"/>
+       <path id="Ubuntu-50" d="M 1728 4480 
+Q 2662 4480 3164 4125 
+Q 3667 3770 3667 3066 
+Q 3667 2682 3529 2410 
+Q 3392 2138 3133 1968 
+Q 2874 1798 2502 1721 
+Q 2131 1645 1664 1645 
+L 1171 1645 
+L 1171 0 
+L 550 0 
+L 550 4371 
+Q 813 4435 1136 4457 
+Q 1459 4480 1728 4480 
+z
+M 1779 3936 
+Q 1382 3936 1171 3917 
+L 1171 2176 
+L 1638 2176 
+Q 1958 2176 2214 2217 
+Q 2470 2259 2646 2358 
+Q 2822 2458 2918 2630 
+Q 3014 2803 3014 3072 
+Q 3014 3328 2915 3494 
+Q 2816 3661 2646 3760 
+Q 2477 3859 2253 3897 
+Q 2029 3936 1779 3936 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Ubuntu-43"/>
+      <use xlink:href="#Ubuntu-48" x="61.999985"/>
+      <use xlink:href="#Ubuntu-50" x="132.499969"/>
+     </g>
+    </g>
+    <g id="patch_204">
+     <path d="M 686.542187 331.053125 
+L 706.542187 331.053125 
+L 706.542187 324.053125 
+L 686.542187 324.053125 
+z
+" style="fill: #e3d37d"/>
+    </g>
+    <g id="text_36">
+     <!-- biogas -->
+     <g transform="translate(714.542187 331.053125) scale(0.1 -0.1)">
+      <use xlink:href="#Ubuntu-62"/>
+      <use xlink:href="#Ubuntu-69" x="58.899994"/>
+      <use xlink:href="#Ubuntu-6f" x="84.199982"/>
+      <use xlink:href="#Ubuntu-67" x="143.199966"/>
+      <use xlink:href="#Ubuntu-61" x="200.999954"/>
+      <use xlink:href="#Ubuntu-73" x="253.199951"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pce6e194173">
+   <rect x="58.01875" y="7.2" width="619.523437" height="375.348437"/>
+  </clipPath>
+ </defs>
+</svg>
